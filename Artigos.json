@@ -1,0 +1,1691 @@
+[
+  {
+    "titulo": "ENCompIF",
+    "descrição": "O Encontro Nacional de Computação dos Institutos Federais (ENCompIF) é um evento que ocorre em conjunto com o Congresso da Sociedade Brasileira de Computação com objetivo de reunir professores e alunos de ensino médio dos Institutos Federais e outras instituições que ofereçam cursos técnicos em informática. O evento tem recebido um grande número de artigos em todas as suas edições e tem sido uma excelente oportunidade para a troca de experiências entre os participantes e um estímulo a integração e estabelecimento de parcerias entre professores e alunos e diferentes Institutos Federais e outras instituições. Os Anais do ENCompIF são publicados anualmente, trazendo os artigos selecionados para cada edição do evento.",
+    "topicos_interesse": ["Automação e Robótica", "Banco de Dados", "Computação Gráfica", "Democracia digital", 
+    "Engenharia de Software", "Informática na Educação", "Linguagens de Programação", 
+    "Redes de Computadores", "Sistemas de Informação", "Sistemas Operacionais"],
+    "Edição Catalagada": "2025 - 2021"
+  },
+
+  {
+    "titulo": "Inovação para um Futuro Sustentável: Um Estudo Empírico sobre o Aplicativo AIGO em uma Comunidade Indígena Urbana",
+    "autores": [
+      "Ana Júlia Fernandes de Sousa",
+      "Fabiann Matthaus Dantas Barbosa"
+    ],
+    "instituicoes": [
+      "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas (IFAM) Campus Manaus Zona Leste"
+    ],
+    "resumo": "A gestão eficiente do estoque doméstico é um fator essencial para a redução do desperdício e a promoção de práticas sustentáveis. Este estudo apresenta o AIGO, um aplicativo desenvolvido para auxiliar no planejamento de compras e controle de suprimentos domésticos, minimizando excessos e incentivando um consumo mais consciente. A pesquisa foi realizada em uma comunidade indígena urbana, onde oito famílias utilizaram o aplicativo ao longo de dois meses. A abordagem qualitativa permitiu analisar o impacto do AIGO nos hábitos de consumo e na gestão dos estoques domésticos. Os resultados demonstram que o aplicativo contribuiu para reduzir desperdícios, otimizar compras e conscientizar os usuários sobre práticas sustentáveis.",
+    "palavras_chave": [],
+    "paginas": 8,
+    "edicao": "ENCompIF 2025",
+    "link": "https://sol.sbc.org.br/index.php/encompif/article/view/36466/36253",
+    "categoria_principal": "Economia e Consumo",
+    "subcategoria": "Planejamento e Gestão Doméstica"
+  },
+  {
+    "titulo": "Fortalecendo as Ações Afirmativas no Contexto Educacional Com Objetos de Aprendizagem (Oa) feitos por IA",
+    "autores": [
+      "Luis Gustavo Oliveira Ferreira",
+      "Wevelley Morais Macedo",
+      "Monck Charles N. de Albuquerque",
+      "Caio Henrique Almeida F. Santos",
+      "Daniel da Silva Santana"
+    ],
+    "instituicoes": [
+      "Instituto Federal de Educação, Ciência e Tecnologia da Bahia – IFBA Campus Seabra"
+    ],
+    "resumo": "O artigo analisa o uso de objetos de aprendizagem (OA) mediados por inteligência artificial (IA) para fortalecer ações afirmativas no contexto educacional do IFBA Campus Seabra. O objetivo é promover debates críticos sobre identidade negra e equidade racial. A pesquisa, de caráter qualitativo e exploratório, desenvolveu um site interativo e um vídeo reflexivo utilizando ferramentas de IA para gerar conteúdos visuais e sonoros. Os resultados mostram que os OAs estimulam o senso crítico dos alunos, mas alertam para possíveis vieses discriminatórios presentes na IA. Conclui-se que a integração entre tecnologias digitais e ações afirmativas potencializa práticas pedagógicas inclusivas.",
+    "palavras_chave": [],
+    "paginas": 9,
+    "edicao": "ENCompIF 2025",
+    "link": "https://sol.sbc.org.br/index.php/encompif/article/view/36467/36254",
+    "categoria_principal": "Educação e Conhecimento",
+    "subcategoria": "Difusão de Tecnologias"
+  },
+  {
+    "titulo": "Vieses Sociais e Raciais da IA interpretando Clássicos da Literatura Brasileira",
+    "autores": [
+      "Caio Henrique Almeida F. Santos",
+      "Daniel da Silva Santana",
+      "Monck Charles N. de Albuquerque",
+      "Luis Gustavo Oliveira Ferreira",
+      "Wevelley Morais Macedo"
+    ],
+    "instituicoes": [
+      "Instituto Federal de Educação, Ciência e Tecnologia da Bahia – IFBA Campus Seabra"
+    ],
+    "resumo": "O artigo investiga a presença de viéses sociais e raciais em respostas de Inteligências Artificiais (IAs) generativas de acesso público. Para isso, foram selecionadas obras de Monteiro Lobato, Lima Barreto, Machado de Assis e Gilberto Freyre, conhecidas por abordar questões sociais brasileiras. As IAs analisadas (ChatGPT, Gemini, Meta AI, Copilot e DeepSeek) foram submetidas a diferentes estratégias de engenharia de prompt, visando observar possíveis distorções ideológicas. Os resultados apontaram que algumas IAs apresentaram respostas problemáticas, enquanto Gemini e ChatGPT mostraram maior capacidade crítica. O estudo destaca a importância do aprimoramento ético das IAs para evitar a reprodução de preconceitos e promover interações alinhadas a valores de igualdade e justiça social.",
+    "palavras_chave": [],
+    "paginas": 9,
+    "edicao": "ENCompIF 2025",
+    "link": "https://sol.sbc.org.br/index.php/encompif/article/view/36468/36255",
+    "categoria_principal": "Educação e Conhecimento",
+    "subcategoria": "Difusão de Tecnologias"
+  },
+  {
+    "titulo": "Uma Ferramenta de Autoria de Currículo Baseada em Grafos de Conhecimento",
+    "autores": [
+      "Girleide Silva",
+      "Igor Batista",
+      "Pedro Silva",
+      "Sarah Mascarenha",
+      "Priscylla Silva",
+      "Leonardo Silva"
+    ],
+    "instituicoes": [
+      "Instituto Federal de Alagoas (IFAL)",
+      "Universidade de São Paulo (USP)"
+    ],
+    "resumo": "A organização curricular é um desafio para docentes, especialmente em disciplinas com conceitos interconectados. A falta de ferramentas adequadas pode resultar em estruturas desorganizadas, impactando o ensino. Este trabalho apresenta uma ferramenta de autoria baseada em grafos de conhecimento, que auxilia professores na criação, visualização e reflexão sobre currículos de forma intuitiva. Resultados preliminares com um usuário demonstraram que a ferramenta possui uma alta usabilidade e compreensão intuitiva das funcionalidades, validando seu potencial para o planejamento pedagógico.",
+    "palavras_chave": [],
+    "paginas": 8,
+    "edicao": "ENCompIF 2025",
+    "link": "https://sol.sbc.org.br/index.php/encompif/article/view/36469/36256",
+    "categoria_principal": "Educação e Conhecimento",
+    "subcategoria": "Formação e Capacitação"
+  },
+  {
+    "titulo": "Sistema Web para Monitoramento Sustentável de Água e Energia com Dashboard Interativo",
+    "autores": [
+      "João Victor A. R. Brito",
+      "Jamison Alves de Paulo",
+      "Renata I. S. Pereira"
+    ],
+    "instituicoes": [
+      "Instituto Federal de Alagoas (IFAL) Campus Arapiraca"
+    ],
+    "resumo": "O consumo de água e energia é um tema central nas discussões sobre sustentabilidade. Diante disso, este projeto propõe um sistema web gratuito para monitoramento desses recursos, utilizando Firebase Firestore e um painel interativo hospedado no Firebase Hosting. Para validar suas funcionalidades, foram utilizados dados reais de consumo de energia do Instituto Federal de Alagoas (IFAL) – Campus Arapiraca. O painel disponibiliza visualização em tempo real, comparações por turnos diários e dicas de sustentabilidade. Alinhado aos Objetivos de Desenvolvimento Sustentável (ODS), o projeto busca promover a conscientização, reduzir desperdícios e incentivar práticas mais sustentáveis. Como evolução futura, pretende-se integrar medições com ESP32, permitindo automação completa.",
+    "palavras_chave": [],
+    "paginas": 8,
+    "edicao": "ENCompIF 2025",
+    "link": "https://sol.sbc.org.br/index.php/encompif/article/view/36470/36257",
+    "categoria_principal": "Sustentabilidade e Meio Ambiente",
+    "subcategoria": "Gestão de Recursos e Redução de Desperdício"
+  },
+  {
+    "titulo": "Automação para Eficiência Energética em Salas de Aula: Um Estudo de Caso no IFPB",
+    "autores": [
+      "Caio Henrique Vieira Alves",
+      "Suelio Fernandes Carolino",
+      "Abinadabe Silva Andrade",
+      "Raphaell Maciel de Sousa",
+      "Leandro Honorato de Souza Silva"
+    ],
+    "instituicoes": [
+      "Instituto Federal da Paraíba – Campus Cajazeiras (IFPB)",
+      "Universidade de Pernambuco (UPE/POLI)"
+    ],
+    "resumo": "A automação educacional tem se destacado como estratégia para eficiência energética, abordando um dos segmentos de Smart Classroom. Este estudo investiga a redução do consumo elétrico em salas de aula por meio de um sistema autônomo baseado em Internet das Coisas (IoT). Foram utilizados sensores de presença, abertura de portas, temperatura, umidade e consumo energético, além de atuadores como disjuntores smart e smart IR. A comunicação ocorre via Wi-Fi privado e Zigbee, garantindo funcionamento local. Os dados são armazenados em InfluxDB e a automação foi desenvolvida em Node-Red. Os testes comparativos indicaram economia de energia da ordem de 20%, confirmada pelo teste de Wilcoxon (p-value = 0.0019).",
+    "palavras_chave": [],
+    "paginas": 8,
+    "edicao": "ENCompIF 2025",
+    "link": "https://sol.sbc.org.br/index.php/encompif/article/view/36471/36258",
+    "categoria_principal": "Sustentabilidade e Meio Ambiente",
+    "subcategoria": "Gestão de Recursos e Redução de Desperdício"
+  },
+  {
+    "titulo": "Uma Plataforma Inteligente para Pesagem Automatizada de Animais Utilizando IoT e Microcontroladores",
+    "autores": [
+      "Pedro Ivo",
+      "Sebastião Coutinho",
+      "Aryelson Gonçalves",
+      "Ismael Marinho",
+      "Antonio Paulino",
+      "Guilherme Silva",
+      "Danyllo Albuquerque",
+      "Emanuel Filho"
+    ],
+    "instituicoes": [
+      "Instituto Federal da Paraíba (IFPB)"
+    ],
+    "resumo": "Este estudo apresenta uma plataforma inovadora para pesagem automatizada de animais baseada em Internet das Coisas (IoT), microcontroladores e sensores inteligentes. O sistema desenvolvido permite a captura e análise de dados em tempo real, eliminando a necessidade de intervenção manual no processo de pesagem. Além disso, a integração com RFID possibilita a identificação individual dos animais, proporcionando rastreabilidade e melhor controle nutricional e sanitário. Os resultados demonstraram alta precisão na pesagem, redução do estresse dos animais e maior eficiência operacional para os produtores rurais. A plataforma web desenvolvida possibilita monitoramento remoto e tomada de decisão baseada em dados, otimizando recursos e reduzindo custos. Esta pesquisa contribui para a modernização da pecuária e reforça o potencial da IoT e da automação no setor agropecuário, alinhando-se às diretrizes da Indústria 4.0.",
+    "palavras_chave": [],
+    "paginas": 8,
+    "edicao": "ENCompIF 2025",
+    "link": "https://sol.sbc.org.br/index.php/encompif/article/view/36472/36259",
+    "categoria_principal": "Tecnologia e Inovação",
+    "subcategoria": "Tecnologias para Sustentabilidade"
+  },
+  {
+    "titulo": "Desenvolvimento de um Aplicativo para Facilitar o Corte de Cabelo em Crianças e Adolescentes com Transtorno do Espectro Autista - TEA",
+    "autores": [
+      "Everson do Nascimento Silva",
+      "Gustavo Henrique de Lima Nascimento"
+    ],
+    "instituicoes": [
+      "Instituto Federal de Pernambuco (IFPE) - Belo Jardim"
+    ],
+    "resumo": "O Transtorno do Espectro Autista (TEA) afeta a interação social e sensorial de indivíduos, tornando atividades rotineiras desafiadoras, como o corte de cabelo. Este artigo apresenta o desenvolvimento do aplicativo \"Meu Anigo Corte\", projetado para reduzir o desconforto de crianças e adolescentes com TEA durante o corte de cabelo. A solução inclui funcionalidades como entretenimento interativo, suporte sensorial e agendamento estruturado, promovendo uma experiência mais previsível e confortável. A pesquisa adotou uma abordagem qualitativa e intervencionista, utilizando revisão bibliográfica e pesquisa de campo com pais e profissionais. Os resultados preliminares demonstram que o aplicativo pode contribuir significativamente para a inclusão e qualidade de vida dos usuários, destacando o potencial da tecnologia assistiva na melhoria de experiências cotidianas.",
+    "palavras_chave": [],
+    "paginas": 8,
+    "edicao": "ENCompIF 2025",
+    "link": "https://sol.sbc.org.br/index.php/encompif/article/view/36473/36260",
+    "categoria_principal": "Saúde e Bem-estar",
+    "subcategoria": "Hábitos e Qualidade de Vida"
+  },
+  {
+    "titulo": "Mapeamento Sistemático de Ferramentas e Tecnologias para Agricultura 4.0 Voltadas ao Pequeno Produtor",
+    "autores": [
+      "João Albano da Silva Neto",
+      "Nicolas Trigo da Silva"
+    ],
+    "instituicoes": [
+      "Instituto Federal do Sertão Pernambucano (IFSertãoPE)"
+    ],
+    "resumo": "As consequências das mudanças climáticas e o aumento do consumo de água nos manejos agrícolas afetam todos os setores da agricultura, principalmente os pequenos produtores. A utilização das ferramentas tecnológicas na agricultura pode ser uma solução para mitigar os impactos causados pelas mudanças climáticas e a escassez de água e terra. Com a iminente chegada da Agronomia 4.0, vem surgindo novas startups que realizam estudos sobre o uso de tecnologias na agricultura, como por exemplo as AgTechs. Este trabalho apresenta um levantamento das práticas, ferramentas e tecnologias digitais utilizadas na agricultura para tentar minimizar os problemas climáticos, escassez de água e terra, dentre outros problemas, resultante de um mapeamento sistemático da literatura.",
+    "palavras_chave": [],
+    "paginas": 8,
+    "edicao": "ENCompIF 2025",
+    "link": "https://sol.sbc.org.br/index.php/encompif/article/view/36474/36261",
+    "categoria_principal": "Tecnologia e Inovação",
+    "subcategoria": "Tecnologias para Sustentabilidade"
+  },
+  {
+    "titulo": "Desenvolvimento de um Sistema para Análise de Viabilidade de Sêmen Ovino Utilizando Yolov8",
+    "autores": [
+      "Vanessa L. Nascimento",
+      "Robson G. F. Feitosa",
+      "Gabriela L. Lima",
+      "Harley M. Mello",
+      "Guilherme A. R. M. Esmeraldo",
+      "Raul S. Maciel"
+    ],
+    "instituicoes": [
+      "Instituto Federal do Ceará – Campus Crato (IFCE)",
+      "Universidade Federal do Cariri – Campus Juazeiro do Norte (UFCA)"
+    ],
+    "resumo": "Nos últimos anos, a criação de ovinos tem experimentado um crescimento significativo, o que motivou o desenvolvimento de tecnologias para melhorar a eficiência reprodutiva. Este trabalho propôs o desenvolvimento de um aplicativo móvel para análise da viabilidade de sêmen ovino utilizando YOLOv8. O processo incluiu: a criação de uma base de dados com 197 imagens; o treinamento do modelo em três etapas distintas; e, o desenvolvimento de um servidor Web com Flask, integrado a um aplicativo Android. O melhor desempenho mAP50 alcançado foi de 67.4%, com precisão de 70.1% e recall de 62.4%. O aplicativo se apresenta como uma alternativa prática, de baixo custo e acessível para estudantes e pesquisadores de Zootecnia e Veterinária, para análise reprodutiva por meio do uso de inteligência artificial.",
+    "palavras_chave": [],
+    "paginas": 8,
+    "edicao": "ENCompIF 2025",
+    "link": "https://sol.sbc.org.br/index.php/encompif/article/view/36475/36262",
+    "categoria_principal": "Tecnologia e Inovação",
+    "subcategoria": "Tecnologias para Sustentabilidade"
+  },
+  {
+    "titulo": "Irrigação Inteligente: Uma RSSF para Otimização do Consumo de Água na Agricultura",
+    "autores": [
+      "Rafael Dutra Pereira",
+      "Leonardo Brandão Campos"
+    ],
+    "instituicoes": [
+      "Instituto Federal da Bahia (IFBA) - Vitória da Conquista"
+    ],
+    "resumo": "O presente trabalho aborda o desenvolvimento de um sistema de irrigação inteligente visando otimizar o uso da água na agricultura. A água é um recurso cada vez mais escasso, com previsões alarmantes para o futuro próximo. A agricultura consome cerca de 70% de toda a água potável, e grande parte desse volume é desperdiçado devido a métodos ineficientes de irrigação. Este projeto propõe a criação de uma rede de sensores sem fio (RSSF) que monitora a umidade do solo, o nível do reservatório de água e aciona a irrigação de forma automatizada, além de disponibilizar uma interface de comunicação, via chatbot, com o usuário final.",
+    "palavras_chave": [
+      "Agricultura Inteligente",
+      "Internet das Coisas",
+      "ESP32",
+      "Chatbot"
+    ],
+    "paginas": 8,
+    "edicao": "ENCompIF 2025",
+    "link": "https://sol.sbc.org.br/index.php/encompif/article/view/36476/36263",
+    "categoria_principal": "Tecnologia e Inovação",
+    "subcategoria": "Tecnologias para Sustentabilidade"
+  },
+  {
+    "titulo": "Redes Neurais e Processamento de Linguagem Natural na Detecção de Fake News: Uma Revisão Sistemática da Literatura",
+    "autores": [
+      "Andressa F. Schons",
+      "Camila F. Antunes",
+      "Laura O. Cunha",
+      "Andrws A. Vieira",
+      "Claudiany C. de Sousa"
+    ],
+    "instituicoes": [
+      "Instituto Federal do Rio Grande do Sul (IFRS) - Ibirubá"
+    ],
+    "resumo": "O Processamento de Linguagem Natural (PLN) é uma área da Ciência da Computação que investiga e propõe métodos e sistemas para o processamento computacional da linguagem humana... Nesse sentido, este artigo tem por objetivo apresentar os resultados de uma investigação de como as RNAs estão sendo aplicadas no reconhecimento de padrões de fala e na tradução automática no contexto das fake news.",
+    "palavras_chave": [],
+    "paginas": 8,
+    "edicao": "ENCompIF 2025",
+    "link": "https://sol.sbc.org.br/index.php/encompif/article/view/36477/36264",
+    "categoria_principal": "Tecnologia e Inovação",
+    "subcategoria": "Desenvolvimento e Avaliação de Sistemas"
+  },
+  {
+    "titulo": "Design e Gamificação de um Tutor de Programação Baseado em Missões Espaciais",
+    "autores": [
+      "Igor Batista",
+      "Pedro Silva",
+      "Sarah Mascarenha",
+      "Priscylla Silva",
+      "Leonardo Silva"
+    ],
+    "instituicoes": [
+      "Instituto Federal de Alagoas (IFAL)",
+      "Universidade de São Paulo (USP)"
+    ],
+    "resumo": "A aprendizagem de programação para iniciantes enfrenta desafios significativos devido à complexidade da lógica computacional e à falta de interatividade dos métodos tradicionais de ensino. Para tornar esse processo mais acessível e envolvente, este estudo propõe um sistema tutor inteligente gamificado baseado em missões espaciais, no qual os alunos assumem o papel de astronautas que avançam conforme completam desafios progressivos. A plataforma integra elementos de gamificação, como storytelling, progressão por níveis, sistema de recompensas, rankings e feedback adaptativo, visando estimular a motivação e o engajamento dos alunos.",
+    "palavras_chave": [],
+    "paginas": 8,
+    "edicao": "ENCompIF 2025",
+    "link": "https://sol.sbc.org.br/index.php/encompif/article/view/36478/36265",
+    "categoria_principal": "Educação e Conhecimento",
+    "subcategoria": "Aprendizagem e Mudança de Comportamento"
+  },
+  {
+    "titulo": "Diagnóstico de Câncer de Mama com Aprendizado de Máquina: Estudo de Caso no UCI-Wisconsin",
+    "autores": [
+      "Messias Acacy",
+      "Raldnei Miguel",
+      "Luciano de Souza Cabral"
+    ],
+    "instituicoes": [
+      "Instituto Federal de Pernambuco (IFPE) - Jaboatão dos Guararapes"
+    ],
+    "resumo": "O aprendizado de máquina tem se destacado na detecção do câncer de mama, impulsionado pela necessidade de diagnósticos mais precisos. Este estudo compara algoritmos como Regressão Logística (RL), Floresta Aleatória (RF), Modelagem de Variáveis Latentes (LVM) e Redes Neurais Artificiais (RNA) no conjunto de dados UCI-Wisconsin (Diagnostic). A análise utiliza métricas como acurácia, AUC, sensibilidade e especificidade. Os resultados mostram que a RL equilibra precisão e interpretabilidade, sendo viável para aplicações médicas. O estudo investiga como a otimização algorítmica e a seleção de características impactam a predição, contribuindo para a informática médica ao fornecer um framework comparativo. As descobertas auxiliam na escolha de modelos eficazes, melhorando a precisão diagnóstica e fomentando ferramentas automatizadas de apoio clínico.",
+    "palavras_chave": [],
+    "paginas": 8,
+    "edicao": "ENCompIF 2025",
+    "link": "https://sol.sbc.org.br/index.php/encompif/article/view/36479/36266",
+    "categoria_principal": "Saúde e Bem-estar",
+    "subcategoria": "Impactos Sociais na Saúde"
+  },
+  {
+    "titulo": "Detecção de Ninhos de Cupins em Pastagens com Técnicas de Visão Computacional",
+    "autores": [
+      "Pedro Lucas M. Pereira",
+      "Lídia Bononi P. Tomaz",
+      "Daniela Resende S. Orbolato"
+    ],
+    "instituicoes": [
+      "Instituto Federal do Triângulo Mineiro – Campus Uberaba Parque Tecnológico"
+    ],
+    "resumo": "Uma pastagem está degradada quando há perda da capacidade para suprir as necessidades dos animais, o que resulta em prejuízos ambientais e econômicos. No Brasil, estima-se que 60% das áreas de pastagem estão em algum estágio de degradação. Baseado nisso, este trabalho propõe a utilização de técnicas de Visão Computacional (VC) para otimizar um sistema de diagnóstico de pastagens degradadas. Assim, os autores realizam o estudo de duas abordagens de VC baseadas em detecção de objetos conhecidas como Haar Cascade e YOLO aplicadas a um dos parâmetros deste sistema, a saber: ocorrência de ninhos de cupins em imagens de pastagem. Os resultados mostraram que o Haar Cascade foi mais eficiente para o parâmetro estudado.",
+    "palavras_chave": [],
+    "paginas": 8,
+    "edicao": "ENCompIF 2025",
+    "link": "https://sol.sbc.org.br/index.php/encompif/article/view/36480/36267",
+    "categoria_principal": "Tecnologia e Inovação",
+    "subcategoria": "Tecnologias para Sustentabilidade"
+  },
+  {
+    "titulo": "AgNose: A Framework-Agnostic Test Smell Detection Tool",
+    "autores": [
+      "André Cardoso",
+      "Denilson Vieira",
+      "Elvys Soares"
+    ],
+    "instituicoes": [
+      "Instituto Federal de Alagoas (IFAL)"
+    ],
+    "resumo": "Test smells indicate problems in automated tests that hinder the understanding, effectiveness, and maintenance of the test code. Due to their relevance, many tools have been created to detect them in xUnit frameworks, which has led to the emergence of test framework-agnostic strategies for detecting smells. However, these strategies are still little explored in the literature, and the available tools depend on obsolete components with considerable limitations. This study proposes the AgNose tool, which extends the strategy of agnostic test smell detection. The strategy is based on creating, from the test code in different frameworks, a simplified structure aimed solely at test smell detection. To implement the proposal, we (i) identify test smells analyzed simultaneously by different detection tools, as well as their identification steps; (ii) establish the minimum XML structure that represents the important information for detecting smells; (iii) implement the AgNose tool; (iv) validate the tool using real open-source projects from public repositories. As results, we map 8 test smells and their minimal XML structure. Also, the tool validation achieved a precision of 96.9%, a recall of 87.5%, and an f-measure of 92%. The presented strategy and tool extend current strategies for agnostic test smell detection, eliminating the perceived limitations of available tools.",
+    "palavras_chave": [],
+    "paginas": 8,
+    "edicao": "ENCompIF 2025",
+    "link": "https://sol.sbc.org.br/index.php/encompif/article/view/36481/36268",
+    "categoria_principal": "Tecnologia e Inovação",
+    "subcategoria": "Desenvolvimento e Avaliação de Sistemas"
+  },
+  {
+    "titulo": "Análise Comparativa de LLMs na Otimização de Índices em Banco de Dados: Um Estudo com GPT-4, Claude 3.7 Sonnet e Gemini 2.0 Flash",
+    "autores": [
+      "Daniel Costa",
+      "Danyllo Albuquerque",
+      "Bruno Moreno"
+    ],
+    "instituicoes": [
+      "Instituto Federal da Paraíba (IFPB)"
+    ],
+    "resumo": "Este estudo apresenta uma análise comparativa entre três Grandes Modelos de Linguagem (LLMs) — GPT-4, Claude 3.7 Sonnet e Gemini 2.0 Flash — com foco em sua capacidade de sugerir índices para otimização de desempenho em bancos de dados relacionais. Utilizando um sistema PostgreSQL hospedado no Supabase, foram aplicadas sugestões de indexação fornecidas por cada modelo e avaliados os tempos de execução de um conjunto padronizado de consultas SQL. Os resultados demonstraram que, embora todos os modelos tenham gerado recomendações válidas, apenas o GPT-4 apresentou impacto mínimo sobre o desempenho, com o menor acréscimo médio de tempo (+0.097ms). Claude 3.7 Sonnet obteve desempenho intermediário (+0.102ms), incluindo sugestões adicionais como constraints, enquanto o Gemini 2.0 Flash apresentou o maior overhead (+0.149ms), indicando menor eficácia prática. A pesquisa contribui para a compreensão do uso de LLMs como ferramentas auxiliares na engenharia de dados, fornecendo evidências empíricas sobre sua aplicabilidade e limitações em cenários de otimização automatizada de bancos de dados.",
+    "palavras_chave": [],
+    "paginas": 8,
+    "edicao": "ENCompIF 2025",
+    "link": "https://sol.sbc.org.br/index.php/encompif/article/view/36482/36269",
+    "categoria_principal": "Tecnologia e Inovação",
+    "subcategoria": "Desenvolvimento e Avaliação de Sistemas"
+  },
+  {
+    "titulo": "Gamificação Desplugada para Lógica Proposicional: conexões entre Computação e Educação no Ensino Médio",
+    "autores": [
+      "Ana Paula Costacurta",
+      "Ricardo Kagami",
+      "Alan Floriano",
+      "Ana Cabanas"
+    ],
+    "instituicoes": [
+      "Instituto Federal do Paraná (IFPR) - Telêmaco Borba",
+      "Centro Universitário SENAI Paraná - UniSENAI/PR",
+      "Facultad Interamericana de Ciencias Sociais (FICS)"
+    ],
+    "resumo": "O objetivo deste estudo foi avaliar a aplicação de um baralho didático gamificado para o ensino de lógica proposicional. A metodologia foi uma pesquisa de natureza, descritiva e de campo com abordagem qualiquantitativa. A amostra foi de 36 estudantes do ensino médio de uma unidade escolar de Curitiba - PR. Os resultados demonstram aumento significativo na compreensão lógica e no raciocínio crítico estudantil. De modo geral, conclui-se que a gamificação se mostrou eficaz, apesar da necessidade de ajustes no design e regras.",
+    "palavras_chave": [
+      "lógica proposicional",
+      "metodologia ativas",
+      "gamificação"
+    ],
+    "paginas": 8,
+    "edicao": "ENCompIF 2025",
+    "link": "https://sol.sbc.org.br/index.php/encompif/article/view/36483/36270",
+    "categoria_principal": "Educação e Conhecimento",
+    "subcategoria": "Aprendizagem e Mudança de Comportamento"
+  },
+  {
+    "titulo": "Curso Técnico em Informática no IFPR: Um Panorama Inicial",
+    "autores": [
+      "João Henrique Berssanette",
+      "Guilherme Otavio E. S. Berssanette",
+      "Marcos Vinícius Berssanette"
+    ],
+    "instituicoes": [
+      "Instituto Federal do Paraná (IFPR) – Campus Curitiba / Centro de Referência Ponta Grossa"
+    ],
+    "resumo": "Este estudo apresenta um panorama inicial dos cursos Técnicos em Informática do Instituto Federal do Paraná (IFPR), analisando seus aspectos organizacionais, estruturais e formativos. Foram analisados 20 Projetos Pedagógicos de Curso (PPCs), abrangendo a totalidade da oferta na instituição. Os resultados revelam heterogeneidade entre os campi em relação à carga horária, regime letivo e matriz curricular, refletindo a autonomia institucional. Predominam modelos anuais e seriados, mas há espaço para formatos diferenciados. A análise sugere a importância de debates sobre harmonização curricular, equilibrando autonomia local e necessidades de convergência.",
+    "palavras_chave": [],
+    "paginas": 8,
+    "edicao": "ENCompIF 2025",
+    "link": "https://sol.sbc.org.br/index.php/encompif/article/view/36484/36271",
+    "categoria_principal": "Educação e Conhecimento",
+    "subcategoria": "Formação e Capacitação"
+  },
+  {
+    "titulo": "WillChair: aplicação web para oferta e aquisição de itens de acessibilidade",
+    "autores": [
+      "Luciane Carvalho Jasmin de Deus",
+      "Henrique Barbosa De Souza Júnior",
+      "Gustavo Linhares Pereira",
+      "João Victor Almeida Rodrigues",
+      "Matheus Barbosa Nunes",
+      "Milena Oliveira Freire"
+    ],
+    "instituicoes": [
+      "FAETEC - ETE Amaury César Vieira"
+    ],
+    "resumo": "O presente artigo apresenta um projeto referente ao desenvolvimento de uma aplicação web denominada “WillChair”, como solução a dificuldade de aquisição de equipamentos de acessibilidade. O projeto visa permitir o contato direto entre um ofertante de equipamento e uma pessoa que necessita deste produto, através de um bate-papo virtual, possibilitando que negociem e finalizem a operação. Sendo um trabalho de conclusão de curso, foram aplicadas metodologias híbridas, que unem as tradicionais e ágeis voltadas ao desenvolvimento de softwares, além do Design Thinking, que foca nas necessidades dos usuários, que nesse contexto, são pessoas com deficiências físicas temporárias ou definitivas. A aplicação web elaborada é adaptável a diferentes dispositivos e tamanhos de telas, para alcançar um maior público. Seu design intuitivo e acessível garante que os usuários encontrem o que desejam rapidamente. Ao estabelecer uma comunicação direta com os ofertantes, quem procura por itens de acessibilidade, consegue negociar a compra ou aluguel, facilitando o processo para a obtenção de itens de acessibilidade.",
+    "palavras_chave": [],
+    "paginas": 9,
+    "edicao": "ENCompIF 2024",
+    "link": "https://sol.sbc.org.br/index.php/encompif/article/view/29280/29085",
+    "categoria_principal": "Tecnologia e Inovação",
+    "subcategoria": "Aplicações Digitais para Gestão e Consumo"
+  },
+  {
+    "titulo": "Glossário Online em Libras para Informática como uma estratégia para aprendizagem de termos técnicos",
+    "autores": [
+      "Fábio A. P. Paiva",
+      "Álvaro H. Silva",
+      "Diego S. Pereira",
+      "Valério G. Medeiros",
+      "Vitor D. L. Santos",
+      "Rickson A. C. Soares"
+    ],
+    "instituicoes": [
+      "IFRN"
+    ],
+    "resumo": "Apesar da comunidade surda ter um percentual significativo no Brasil, diversos conteúdos técnicos não são inclusivos. Isso se estende também a estudantes surdos de informática. Este artigo propõe um glossário colaborativo online em Libras para informática cujo objetivo é reduzir a barreira de inclusão de estudantes surdos, uma vez que muitos deles não são alfabetizados na língua portuguesa. As contribuições do artigo são: 1) capacidade de autoconstrução do protótipo através da extração de novos termos disponíveis em glossários online monolíngue; 2) produção de vídeos em Libras para definir termos técnicos de informática; e 3) compartilhamento de termos do glossário através de uma API REST para uso de outros tipos de aplicação.",
+    "palavras_chave": [],
+    "paginas": 8,
+    "edicao": "ENCompIF 2024",
+    "link": "https://sol.sbc.org.br/index.php/encompif/article/view/29281/29086",
+    "categoria_principal": "Educação e Conhecimento",
+    "subcategoria": "Difusão de Tecnologias"
+  },
+  {
+    "titulo": "Pesquisa em Computação nos Institutos Federais sob a ótica do ENCompIF: refletir sobre o passado é prospectar o futuro",
+    "autores": [
+      "Pedro João Paulino Franz",
+      "João Otávio N. B. da Silva",
+      "Kalel M. B. Pereira",
+      "Matheus O. S. Silva",
+      "Renan Vinicius Aranha",
+      "João Gabriel Rocha Silva"
+    ],
+    "instituicoes": [
+      "UFMT",
+      "IFMT",
+      "IFB"
+    ],
+    "resumo": "O Encontro Nacional de Computação dos Institutos Federais (EnCompIF), atualmente em sua 11ª edição, surgiu como um evento satélite do 33º Congresso da Sociedade Brasileira de Computação (CSBC) com o objetivo de reunir professores e alunos das instituições alusivas a Rede Federal de Educação Profissional, Científica e Tecnológica (RFEPCT) para compartilharem suas experiências científicas. Visando a compreender a colaboração em pesquisa entre essas instituições, este trabalho discute o panorama das pesquisas em Computação no âmbito do EnCompIF, contemplando aspectos como as parcerias interinstitucionais, os temas abordados e a participação de estudantes do ensino médio.",
+    "palavras_chave": [],
+    "paginas": 8,
+    "edicao": "ENCompIF 2024",
+    "link": "https://sol.sbc.org.br/index.php/encompif/article/view/29282/29087",
+    "categoria_principal": "Educação e Conhecimento",
+    "subcategoria": "Formação e Capacitação"
+  },
+  {
+    "titulo": "Projeto e Desenvolvimento de um Sistema Computacional para controle e acompanhamento de alimentação diária de PETs",
+    "autores": [
+      "Caio Felipe A. Rodrigues",
+      "João Gabriel S. Ferreira",
+      "Állec Bryan M. de M. Andrade",
+      "João O. Brasileiro",
+      "Luan M. G. Arcanjo",
+      "Danyelle M. M. Santana",
+      "Edson B. Lisboa"
+    ],
+    "instituicoes": [
+      "IFS"
+    ],
+    "resumo": "O Dispenser é um dispositivo inteligente projetado para simplificar as rotinas de cuidados com animais de estimação, fornecendo acesso conveniente à alimentação do pet. Esse dispositivo consiste em uma estrutura mecânica, um sistema embarcado e um servidor de aplicações. Ele distribui automaticamente a quantidade personalizada de ração em horários pré-determinados. Um aplicativo conectado à rede permite monitorar e controlar o dispositivo remotamente, garantindo que o animal seja alimentado mesmo na ausência dos tutores, o que é especialmente útil para quem precisa viajar ou trabalhar longe de casa. Essa solução proporciona praticidade, conforto e contribui para a saúde e bem-estar dos animais domésticos.",
+    "palavras_chave": [],
+    "paginas": 8,
+    "edicao": "ENCompIF 2024",
+    "link": "https://sol.sbc.org.br/index.php/encompif/article/view/29283/29088",
+    "categoria_principal": "Tecnologia e Inovação",
+    "subcategoria": "Aplicações Digitais para Gestão e Consumo"
+  },
+  {
+    "titulo": "AcessibiWeb - Uma revisão sistemática da literatura para identificar, categorizar e divulgar diretrizes de acessibilidade web",
+    "autores": [
+      "Camilla Carvalho de Souza",
+      "Taynara Cerigueli Dutra"
+    ],
+    "instituicoes": [
+      "IFPR",
+      "IFSC"
+    ],
+    "resumo": "Com o avanço da web, se tornou comum que diversas atividades do dia-a-dia sejam desempenhadas de maneira online. É neste contexto que surge a necessidade de portais e conteúdos web acessíveis, para propiciar uma boa experiência no acesso e interação de cada usuário. Nas últimas décadas, diversas diretrizes de acessibilidade web foram criadas com o objetivo de tornar a web mais acessível às pessoas com deficiência, contudo, é comum que a maioria de sites ainda sejam disponibilizados sem recursos de acessibilidade. O presente projeto identificou, selecionou e categorizou diretrizes de acessibilidade web obtidas por meio de uma revisão sistemática da literatura. Ao fim da pesquisa, as diretrizes foram divulgadas por meio de uma página web acessível.",
+    "palavras_chave": [],
+    "paginas": 8,
+    "edicao": "ENCompIF 2024",
+    "link": "https://sol.sbc.org.br/index.php/encompif/article/view/29284/29089",
+    "categoria_principal": "Educação e Conhecimento",
+    "subcategoria": "Formação e Capacitação"
+  },
+  {
+    "titulo": "Avaliando o Desempenho de Modelos Generativos de Dados para Classificação de Notícias Falsas",
+    "autores": [
+      "William Teles de Andrade Júnior",
+      "João Gabriel Rocha Silva",
+      "Rodrigo Cesar Lira",
+      "Antônio Correia de Sá Barreto Neto"
+    ],
+    "instituicoes": [
+      "IFPE",
+      "IFB"
+    ],
+    "resumo": "Este artigo teve como objetivo investigar o potencial dos modelos generativos de dados sintéticos para a abordagem de detecção de notícias falsas. A pesquisa compara os resultados obtidos de um conjunto de dados real, contendo informações obtidas de notícias da internet, com aqueles obtidos de quatro conjuntos de dados sintéticos gerados usando GAN, VAE, DDPM e SMOTE. Os resultados do estudo indicam que o desempenho da classificação obteve uma melhora quando usado os dados sintéticos, com uma pontuação de acurácia de, aproximadamente, 87%. Esses resultados sugerem que dados sintéticos podem servir como ferramentas valiosas para melhorar o desempenho classificação de notícias falsas.",
+    "palavras_chave": [],
+    "paginas": 8,
+    "edicao": "ENCompIF 2024",
+    "link": "https://sol.sbc.org.br/index.php/encompif/article/view/29285/29090",
+    "categoria_principal": "Sociedade e Comunidades",
+    "subcategoria": "Impactos Sociais de Tecnologias"
+  },
+  {
+    "titulo": "Uma Proposta de Estrutura Variável para o Método IMMF Aplicada ao Problema de Estimação da Condição de Funcionamento de Baterias",
+    "autores": [
+      "Anne Caroline P. dos Santos",
+      "Cauã R. da Costa e Aguiar",
+      "Gabriel R. da Silva",
+      "Gabriel S. V. de Carvalho",
+      "Luciana B. Cosme"
+    ],
+    "instituicoes": [
+      "IFNMG",
+      "UNIMONTES"
+    ],
+    "resumo": "Os sistemas industriais e seus componentes podem ser caracterizados por diferentes modos de funcionamento e falhas, principalmente porque várias partes podem sofrer com diferentes tipos de deteriorações. Por isso, saber o melhor momento para o início das atividades de manutenção pode prolongar a vida útil dos equipamentos. Para auxiliar a execução de manutenção desses equipamentos, o presente trabalho propõe uma abordagem de estimação da condição de funcionamento, utilizando uma estrutura variável para os filtros de partículas com múltiplos modelos, aplicado à estimação do estado de uma bateria de íon-lítio. Duas abordagens são propostas (IMMA e IMMAND), diferindo na lógica de seleção dos modelos ativos mais prováveis. Para avaliar e validar os resultados obtidos pelas abordagens, são utilizados as métricas RMSE e MAPE, que mostraram boas estimativas dos algoritmos propostos, para a base de dados analisadas e na presença de muitos modelos sem sofrerem grandes interferências da escolha dos limiares.",
+    "palavras_chave": [],
+    "paginas": 8,
+    "edicao": "ENCompIF 2024",
+    "link": "https://sol.sbc.org.br/index.php/encompif/article/view/29286/29091",
+    "categoria_principal": "Tecnologia e Inovação",
+    "subcategoria": "Desenvolvimento e Avaliação de Sistemas"
+  },
+  {
+    "titulo": "Uma abordagem evolutiva com filtro de partículas e sistemas nebulosos para o monitoramento da condição de equipamentos",
+    "autores": [
+      "Iarah G. de Almeida",
+      "Gabriel R. da Silva",
+      "Cauã R. C. e Aguiar",
+      "Gabriel S. V. de Carvalho",
+      "Luciana B. Cosme"
+    ],
+    "instituicoes": [
+      "IFNMG",
+      "UNIMONTES"
+    ],
+    "resumo": "Este artigo propõe uma abordagem adaptativa para representar modelos de degradação em equipamentos, combinando filtro de partículas e sistemas nebulosos. Experimentos com a base de dados da NASA Ames Prognostics Center of Excellence (PCoE), que disponibiliza dados históricos de baterias de íons de lítio, mostrou que o método adaptativo apresenta melhorias na estimativa em tempo real da condição dos equipamentos em comparação com abordagens tradicionais.",
+    "palavras_chave": [],
+    "paginas": 8,
+    "edicao": "ENCompIF 2024",
+    "link": "https://sol.sbc.org.br/index.php/encompif/article/view/29287/29092",
+    "categoria_principal": "Tecnologia e Inovação",
+    "subcategoria": "Desenvolvimento e Avaliação de Sistemas"
+  },
+  {
+    "titulo": "Tecnologias Digitais na Educação para a inclusão de pessoas com Transtorno do Espectro Autista: uma revisão bibliográfica",
+    "autores": [
+      "Pedro Henrique Silva Assunção",
+      "Pedro Lucas Fernandes Pereira",
+      "Alba Sandyra Bezerra Lopes",
+      "Sandra Cristinne Xavier da Câmara"
+    ],
+    "instituicoes": [
+      "IFRN"
+    ],
+    "resumo": "Este artigo apresenta uma revisão bibliográfica sobre o uso de tecnologias digitais na educação para a inclusão de pessoas com Transtorno do Espectro Autista (TEA) na escola. Como metodologia foram realizadas buscas em bases científicas e utilizados critérios para inclusão e exclusão de publicações, com foco em publicações nacionais que abordam o uso das tecnologias digitais para melhorar o processo de aprendizagem dessas pessoas. Foram considerados, ainda, referenciais teóricos da área da saúde, da legislação brasileira e da psicologia da aprendizagem como base. Análises iniciais apontam que a falta de capacitação profissional para o uso dessas tecnologias se coloca entre as principais dificuldades para aplicação da legislação de inclusão em vigor.",
+    "palavras_chave": [],
+    "paginas": 8,
+    "edicao": "ENCompIF 2024",
+    "link": "https://sol.sbc.org.br/index.php/encompif/article/view/29288/29093",
+    "categoria_principal": "Educação e Conhecimento",
+    "subcategoria": "Difusão de Tecnologias"
+  },
+  {
+    "titulo": "Arquitetura Computacional para Adaptação de Questões para Estudantes Neurodivergentes Fundamentada em Recursos de Inteligência Artificial Generativa",
+    "autores": [
+      "Júlio César da Costa Silva",
+      "Hiran Nonato M. Ferreira"
+    ],
+    "instituicoes": [
+      "IFSULDEMINAS"
+    ],
+    "resumo": "Este artigo descreve o desenvolvimento de uma arquitetura, denominada Mind Bridge, para adaptar questões de avaliação para estudantes neurodivergentes, utilizando recursos de Inteligência Artificial Generativa. O Mind Bridge torna as questões mais acessíveis e compreensíveis, contribuindo para a inclusão e a equidade de oportunidades. A arquitetura foi projetada com três módulos: Módulo de Entrada, Módulo Lógico e Módulo Generativo. O estudo de caso realizado demonstrou a eficácia da arquitetura na adaptação de questões de diferentes áreas do conhecimento, destacando sua capacidade de transformar questões técnicas e complexas em problemas do mundo real.",
+    "palavras_chave": [],
+    "paginas": 8,
+    "edicao": "ENCompIF 2024",
+    "link": "https://sol.sbc.org.br/index.php/encompif/article/view/29289/29094",
+    "categoria_principal": "Educação e Conhecimento",
+    "subcategoria": "Difusão de Tecnologias"
+  },
+  {
+    "titulo": "Aplicação da Bibliometria como Referencial Bibliográfico no Desenvolvimento de Chatbot para Saúde Mental",
+    "autores": [
+      "Anelise C. dos Santos",
+      "Nicolas M. Matos",
+      "João Pedro N. Ramos",
+      "Fábio Henrique M. Oliveira"
+    ],
+    "instituicoes": [
+      "IFB"
+    ],
+    "resumo": "A crescente disponibilidade de documentos acadêmicos online impulsiona a análise quantitativa via bibliometria. Este artigo foca na bibliometria para apoiar o desenvolvimento de chatbots em saúde mental, utilizando análises de estudos nas plataformas Scopus e Web of Science with palavras-chave específicas. Foram gerados gráficos que elucidam as tendências e conexões no campo, destacando a interação entre autores, a frequência de termos-chave e o volume de publicações. Através da ferramenta VOSviewer, esta pesquisa bibliográfica utiliza a bibliometria como uma metodologia para entender padrões e relações em pesquisas sobre chatbots e saúde mental.",
+    "palavras_chave": [],
+    "paginas": 8,
+    "edicao": "ENCompIF 2024",
+    "link": "https://sol.sbc.org.br/index.php/encompif/article/view/29290/29095",
+    "categoria_principal": "Saúde e Bem-estar",
+    "subcategoria": "Hábitos e Qualidade de Vida"
+  },
+  {
+    "titulo": "Uma prancha digital personalizada para comunicação alternativa e aumentativa de pessoas com TEA",
+    "autores": [
+      "Ian Jairo T. Gonzales",
+      "Mônica X. C. da Cunha",
+      "Lukas T. Carvalho"
+    ],
+    "instituicoes": [
+      "IFAL",
+      "AMA-AL"
+    ],
+    "resumo": "O Transtorno do Espectro Autista (TEA) apresenta desafios na comunicação e interação social, afetando a qualidade de vida e inclusão na sociedade. Sendo assim, este trabalho visa apresentar a proposta de uma prancha digital de Comunicação Alternativa e Aumentativa (CAA) para crianças e adolescentes com autismo, baseada no Programa de Comunicação por Troca de Figuras (PECS). O estudo foi divido em 4 etapas: acompanhamento de sessões de fonoaudiologia, análise de softwares, levantamento de requisitos e desenvolvimento de um protótipo funcional. Os próximos passos incluem a codificação e a validação. Assim, esta investigação busca melhorar a comunicação e interação de indivíduos com TEA, visando à inclusão e qualidade de vida na sociedade.",
+    "palavras_chave": [],
+    "paginas": 8,
+    "edicao": "ENCompIF 2024",
+    "link": "https://sol.sbc.org.br/index.php/encompif/article/view/29291/29096",
+    "categoria_principal": "Saúde e Bem-estar",
+    "subcategoria": "Impactos Sociais na Saúde"
+  },
+  {
+    "titulo": "Previsão da Direção do Preço de Ação Brasileira Utilizando Redes Neurais e Máquinas de Vetores Suporte",
+    "autores": [
+      "Carlos A. M. Monteiro",
+      "Matheus H. D. M. Ribeiro"
+    ],
+    "instituicoes": [
+      "IFC",
+      "UTFPR"
+    ],
+    "resumo": "A hipótese de mercado eficiente classifica os mercados em eficientes, que não são possíveis de prever o preço futuro, e menos eficientes, que é possível prever o preço futuro. Considerando o possível ganho financeiro ao prever o preço futuro de um ativo, diversos estudos utilizam técnicas de Inteligência Artificial para prever movimentos no mercado de ações. Este artigo se propõe a avaliar a eficácia de modelos por Máquinas de Vetores Suporte e Redes Neurais para prever o comportamento de ações brasileiras, utilizando indicadores técnicos. Os resultados indicam acurácias próximas a 50% para ambos os métodos, sugerindo que o mercado é eficiente e questionando a capacidade de previsão para o mesmo.",
+    "palavras_chave": [],
+    "paginas": 8,
+    "edicao": "ENCompIF 2024",
+    "link": "https://sol.sbc.org.br/index.php/encompif/article/view/29292/29097",
+    "categoria_principal": "Economia e Consumo",
+    "subcategoria": "Comportamento do Consumidor"
+  },
+  {
+    "titulo": "Uma Solução IoT de segurança Utilizando Visão Computacional para Potencializar a Proteção Escolar",
+    "autores": [
+      "Guilherme Cadete Matias",
+      "Maria Rita da Silva Gomes",
+      "Rodrigo Siqueira Martins",
+      "Valério Gutemberg de Medeiros Junior",
+      "Fábio Procópio Augusto de Paiva"
+    ],
+    "instituicoes": [
+      "IFRN"
+    ],
+    "resumo": "Diante da necessidade de garantir mais segurança em ambientes restritos, foi desenvolvido um sistema que pudesse apresentar eficiência e praticidade para realizar o controle de acesso de veículos em ambientes privados. Esse sistema utiliza tecnologias promissoras, como IoT e Visão Computacional em dispositivos móveis com acesso à internet, aprimorando significativamente a vigilância e fortalecendo as medidas de segurança existentes nessas estruturas. O sistema desenvolvido demonstrou uma eficácia de 95,6% no reconhecimento de veículos registrados pelas câmeras, destacando-se ainda por sua natureza de baixo custo e fácil implantação.",
+    "palavras_chave": [],
+    "paginas": 8,
+    "edicao": "ENCompIF 2024",
+    "link": "https://sol.sbc.org.br/index.php/encompif/article/view/29293/29098",
+    "categoria_principal": "Tecnologia e Inovação",
+    "subcategoria": "Desenvolvimento e Avaliação de Sistemas"
+  },
+  {
+    "titulo": "Análise do desempenho dos estudantes na disciplina de Programação de Computadores utilizando princípios de comunidades em Redes Complexas",
+    "autores": [
+      "Guilherme O. Aguiar",
+      "Miguel A. Pezzin Silva",
+      "João Gabriel Rocha Silva"
+    ],
+    "instituicoes": [
+      "IFMT"
+    ],
+    "resumo": "A disciplina de Programação de Computadores é considerada desafiadora pelos estudantes o que resulta em um alto potencial de reprovação. Nesse sentido, compreender os motivos pelos quais a disciplina possui este estigma e buscar maneiras para mitigar o problemas faz-se relevante e necessário. Assim, este trabalho tem como objetivo relacionar e verificar se o desempenho acadêmico na disciplina possui interferência pelo rede de amizade dos alunos em uma turma. O estudo foi aplicado em três turmas do curso Técnico em Informática integrado ao Ensino Médio. Para a obtenção das informações acerca das amizades dos estudantes, um questionário foi aplicado. Resultados apontaram que, para as turmas analisadas, mesmo cada turma com seu comportamento particular, o desempenho dos estudantes nas disciplina possuem padrões parecidos com sua rede de amizade na maioria das comunidades.",
+    "palavras_chave": [],
+    "paginas": 4,
+    "edicao": "ENCompIF 2023",
+    "link": "https://sol.sbc.org.br/index.php/encompif/article/view/25233/25054",
+    "categoria_principal": "Educação e Conhecimento",
+    "subcategoria": "Aprendizagem e Mudança de Comportamento"
+  },
+  {
+    "titulo": "Identificação de Soft Skills a Partir da Avaliação de Anúncios de Vagas em Tecnologia da Informação",
+    "autores": [
+      "Luciano Leite da Silva",
+      "Danyllo W. Albuquerque"
+    ],
+    "instituicoes": [
+      "IFPB"
+    ],
+    "resumo": "Soft Skills são habilidades interpessoais que caracterizam nossos relacionamentos com outras pessoas. Na área de informática, é essencial o desenvolvimento dessas habilidades em virtude da natureza dinâmica das atividades. Este trabalho tem como objetivo mapear as Soft Skills requeridas em anúncios de emprego na área de informática. Analisou-se 400 anúncios e mais de 75% deles relacionaram-se com Soft Skills, sendo trabalho em equipe, comunicação, proatividade e solução de problemas as mais citadas. Identificou-se ainda as Soft Skills para diferentes perfis como Desenvolvedor de software, Analista de sistemas e Engenheiro de software. Conclui-se que habilidades não-técnicas estão recebendo importância desde as fases de recrutamento, cabendo aos profissionais o desenvolvimento destas para se adequarem à realidade do mercado.",
+    "palavras_chave": [],
+    "paginas": 4,
+    "edicao": "ENCompIF 2023",
+    "link": "https://sol.sbc.org.br/index.php/encompif/article/view/25234/25055",
+    "categoria_principal": "Educação e Conhecimento",
+    "subcategoria": "Formação e Capacitação"
+  },
+  {
+    "titulo": "Analisando as Soft Skills do Ponto de Vista dos Profissionais de Informática",
+    "autores": [
+      "Lara Gabrielly C. Rocha",
+      "Danyllo W. Albuquerque"
+    ],
+    "instituicoes": [
+      "IFPB"
+    ],
+    "resumo": "As Soft Skills são traços de personalidade e hábitos que influenciam nossos relacionamentos. Embora sejam importantes para profissionais de diversas áreas, inclusive de informática, existe a necessidade de avaliar a compreensão e aplicabilidade desse conceito. Desse modo, o presente estudo avaliou a importância das Soft Skills no contexto dos profissionais de informática. Com base em 62 respostas, verificou-se que a maior parte destes profissionais reconhecem a relevância dessas habilidades. Trabalhar em equipe, Responsabilidade e Comunicação foram as Soft Skills mais relevantes. Conclui-se que, além das habilidades técnicas, as habilidades interpessoais e comportamentais são essenciais na área de informática devendo receber atenção devida por parte das empresas e profissionais de informática.",
+    "palavras_chave": [],
+    "paginas": 4,
+    "edicao": "ENCompIF 2023",
+    "link": "https://sol.sbc.org.br/index.php/encompif/article/view/25235/25056",
+    "categoria_principal": "Educação e Conhecimento",
+    "subcategoria": "Formação e Capacitação"
+  },
+  {
+    "titulo": "Exploração e Visualização de Padrões Criminais",
+    "autores": [
+      "Girleide Silva",
+      "Priscylla Silva",
+      "Leonardo B. M. Silva"
+    ],
+    "instituicoes": [
+      "IFAL",
+      "USP"
+    ],
+    "resumo": "A criminalidade é um dos problemas que mais afetam a nossa sociedade. Nos últimos anos, técnicas de ciência de dados têm sido utilizadas para ajudar a mitigar esse problema. Já é conhecido na literatura sobre o tema, que os crimes apresentam um padrão temporal e espacial nas cidades. Entretanto, a maioria dos trabalhos estão concentrados na análise de dados de uma única cidade. Este trabalho apresenta uma investigação baseada em análise visual para comparar padrões criminais em duas cidades, Chicago e São Francisco. Os resultados encontrados mostram que seus padrões criminais são distintos.",
+    "palavras_chave": [],
+    "paginas": 4,
+    "edicao": "ENCompIF 2023",
+    "link": "https://sol.sbc.org.br/index.php/encompif/article/view/25236/25057",
+    "categoria_principal": "Tecnologia e Inovação",
+    "subcategoria": "Desenvolvimento e Avaliação de Sistemas"
+  },
+  {
+    "titulo": "Estudo Comparativo entre um Algoritmo de Evolução Diferencial e um algoritmo Genético para classificação de Fake News na Web",
+    "autores": [
+      "Vinícius Maciel Chaves",
+      "Maria Laura Pezzin Silva",
+      "Felipe Orlando Brum",
+      "João Gabriel Rocha Silva"
+    ],
+    "instituicoes": [
+      "IFMT"
+    ],
+    "resumo": "As populares fake news são notícias falsas ou falaciosas cujo objetivo consiste em disseminar informações inverídicas sobre um determinado assunto. Essas notícias tem influenciado cenários de importante relevância. Nesse contexto, trabalhos no âmbito da computação foram aplicados a esse problema. Assim, o objetivo deste trabalho é desenvolver um algoritmo de evolução diferencial que ajuste pesos de parâmetros de componentes estruturais de uma notícia a fim de classificá-la corretamente. O intuito do algoritmo é classificar de uma maneira mais assertiva quando comparado a outro trabalho da literatura que utiliza o Algoritmo Genético para a ponderação. Resultados indicam que o algoritmo de evolução diferencial, para base de dados avaliada, apresenta, de forma tênue, mais êxito na identificação e classificação dessas notícias.",
+    "palavras_chave": [],
+    "paginas": 4,
+    "edicao": "ENCompIF 2023",
+    "link": "https://sol.sbc.org.br/index.php/encompif/article/view/25237/25058",
+    "categoria_principal": "Sociedade e Comunidades",
+    "subcategoria": "Impactos Sociais de Tecnologias"
+  },
+  {
+    "titulo": "Uma Abordagem a DeepFake via Algoritmos de Aprendizagem Profunda",
+    "autores": [
+      "Gustavo S. Rodrigues",
+      "Carlos A. Silva"
+    ],
+    "instituicoes": [
+      "IFMG"
+    ],
+    "resumo": "Com o rápido avanço da inteligência artificial, ações de criação e manipulação de imagens e vídeos tem se tornado cada vez mais comum e acessível às pessoas. Como consequência, as deepfakes tem sido bastante utilizadas à serviço da desinformação e à disseminação de fake news. Considerando as deepfakes como um marco nessa nova era da informação, este artigo propõe a análise de três importantes algoritmos de aprendizagem profunda para a geração de deepfakes. Os resultados mostram que o Deepfacelab despende quase o dobro do tempo de processamento em relação ao FaceSwap e ao First Order Motion, porém apresenta uma melhor qualidade dos resultados gerados.",
+    "palavras_chave": [],
+    "paginas": 8,
+    "edicao": "ENCompIF 2024",
+    "link": "https://sol.sbc.org.br/index.php/encompif/article/view/25237/25059",
+    "categoria_principal": "Tecnologia e Inovação",
+    "subcategoria": "Desenvolvimento e Avaliação de Sistemas"
+  },
+  {
+    "titulo": "Epidemiology: Analysis And Construction Of A Mathematical And Computational Model In Complex Systems For The COVID-19 Pandemic",
+    "autores": [
+      "Luan Crisostomo Pinto",
+      "Maria Luiza Rodrigues Defante",
+      "Rodrigo Lacerda da Silva"
+    ],
+    "instituicoes": [
+      "IFFluminense"
+    ],
+    "resumo": "The textbook mathematical model in epidemiology - SIS (Susceptible-Infected-Susceptible) provided the basis for proposing a new and improved model based on the observable behaviors of the current Covid-19 pandemic. The goal of this study was to analyze the behavior of the system and the influence of the LockDown factor on infected individuals. The model proposed here, called SIERDASHQ (Susceptible - Infected - Exposed - Recovered - Deceased - Asymptomatic - Symptomatic - Hospitalized - Quarantined), was simulated with values that expressed the situation of the pandemic at the national level, making it possible to compare data to the graphics produced by the program, which confirms the validity of the model.",
+    "palavras_chave": [],
+    "paginas": 8,
+    "edicao": "ENCompIF 2023",
+    "link": "https://sol.sbc.org.br/index.php/encompif/article/view/25239/25060",
+    "categoria_principal": "Saúde e Bem-estar",
+    "subcategoria": "Impactos Sociais na Saúde"
+  },
+  {
+    "titulo": "Contagem de Fibras em Imagens de Tomografia Ultrassônica em Matriz Cimentária usando Laplacian of Gaussian",
+    "autores": [
+      "Douglas I. R. B. Braga",
+      "Cristina K. Dominicini",
+      "Jefferson O. Andrade",
+      "Rodolfo G. M. de Andrade",
+      "Karin S. Komati"
+    ],
+    "instituicoes": [
+      "IFES"
+    ],
+    "resumo": "Este trabalho propõe um sistema para a detecção automática das fibras em imagens tomográficas de uma matriz cimentícia, usando método de processamento de imagem, a detecção de blobs usando o LoG (Laplacian of Gaussian). Verificamos que uma vantagem do LoG é que detecta blobs de diferentes tamanhos, característica de seu espaço escala que avalia a imagem sob diferentes máscaras. Os resultados foram influenciados pelo formato dos blobs, o método não detectou os que tinham formatos ovalados e não muito compridos. Das oito amostras avaliadas, 4 delas apresentaram alto valor de precisão e de revocação.",
+    "palavras_chave": [],
+    "paginas": 8,
+    "edicao": "ENCompIF 2024",
+    "link": "https://sol.sbc.org.br/index.php/encompif/article/view/25237/25059",
+    "categoria_principal": "Tecnologia e Inovação",
+    "subcategoria": "Desenvolvimento e Avaliação de Sistemas"
+  },
+  {
+    "titulo": "Influência de Medidas da Topologia de Redes de Ruas na Análise da Mobilidade Urbana: Um Estudo Aplicado à Cidade de João Pessoa – PB",
+    "autores": [
+      "Paulo Ribeiro Lins Júnior",
+      "Lílian Honorio Teixeira"
+    ],
+    "instituicoes": [
+      "IFPB"
+    ],
+    "resumo": "O artigo investiga a influência da topologia das redes de ruas de uma dada localidade, como possível conjunto de indicadores para análise de mobilidade urbana e propõe um índice baseado em medidas dessas redes, considerando os bairros como nível de granularidade. Um caso de uso é realizado com 10 bairros da cidade de João Pessoa - PB, ranqueados primeiro com base em cada característica de rede individualmente, depois com o índice que considera a influência conjunta de todas. Os resultados apontam para a importância de considerar aspectos topológicos das redes de rua como possíveis indicadores, e do impacto da granularidade da área observada nos estudos sobre de mobilidade urbana.",
+    "palavras_chave": [],
+    "paginas": 8,
+    "edicao": "ENCompIF 2023",
+    "link": "https://sol.sbc.org.br/index.php/encompif/article/view/25241/25062",
+    "categoria_principal": "Sociedade e Comunidades",
+    "subcategoria": "Organização e Dinâmica Comunitária"
+  },
+  {
+    "titulo": "Um estudo comparativo de características das ferramentas de automação de teste end-to-end: Cypress vs QA Wolf vs TestCafé",
+    "autores": [
+      "Rebeca M. de C. T. Figueiredo",
+      "Raiane Eunice S. Fernandes",
+      "Raquel M. de C. T. Figueiredo",
+      "Clênia Melo Araujo",
+      "Jislane S. S. de Menezes"
+    ],
+    "instituicoes": [
+      "IFS"
+    ],
+    "resumo": "Diante da necessidade de softwares robustos e de alta qualidade, ferramentas de teste foram criadas para ajudar a detectar falhas e atender aos requisitos exigidos. Um comparativo das características entre as ferramentas de teste End-to-End, Cypress, TestCafé e QA Wolf, analisou documentação, preparação do ambiente de teste e comparação entre suas aplicações para determinar os pontos fortes e fracos das ferramentas. Os resultados mostram que a ferramenta mais fácil de usar é o QAWolf, enquanto o TestCafe requer sólidos conhecimentos de programação e domínio de testes e, por fim, Cypress tem mais recursos, mas requer um conhecimento avançado de testes e programação.",
+    "palavras_chave": [],
+    "paginas": 8,
+    "edicao": "ENCompIF 2024",
+    "link": "https://sol.sbc.org.br/index.php/encompif/article/view/25237/25059",
+    "categoria_principal": "Tecnologia e Inovação",
+    "subcategoria": "Desenvolvimento e Avaliação de Sistemas"
+  },
+  {
+    "titulo": "Os Institutos Federais e a Curricularização da Extensão: uma Análise da Região Centro-Oeste do Brasil",
+    "autores": [
+      "Diego X. Siqueira",
+      "Geísa A. R. Boaventura",
+      "Lívia M. C. Campos",
+      "Newarney T. Costa",
+      "Mateus B. Macedo",
+      "Renan Vinicius Aranha",
+      "Cleon X. Pereira Júnior"
+    ],
+    "instituicoes": [
+      "IF Goiano",
+      "IFMT"
+    ],
+    "resumo": "Este artigo apresenta um mapeamento da situação da curricularização da extensão em cursos superiores de Computação em Institutos Federais de Ciência e Tecnologia na região Centro-Oeste do Brasil. A pesquisa foi realizada a partir de documentos públicos de Projetos Pedagógicos de Cursos (PPC). Após critérios de inclusão e exclusão, foram selecionados 32 cursos em seis instituições. A análise dos PPC revelou que apenas 50% dos cursos já a incluíram. Dos cursos com curricularização da extensão, foram realizadas análises considerando a instituição e o tipo (bacharelado ou tecnológico). Foi possível encontrar semelhanças e diferenças com relação à curricularização da extensão.",
+    "palavras_chave": [],
+    "paginas": 8,
+    "edicao": "ENCompIF 2023",
+    "link": "https://sol.sbc.org.br/index.php/encompif/article/view/25243/25064",
+    "categoria_principal": "Educação e Conhecimento",
+    "subcategoria": "Formação e Capacitação"
+  },
+  {
+    "titulo": "Acesso à formação em Inteligência Artificial para pessoas de baixa renda: um Estudo de Caso em Sergipe",
+    "autores": [
+      "Catuxe Varjão de Santana Oliveira",
+      "Eddie Fernandes de Jesus Menezes",
+      "Felipe Jovino dos Santos",
+      "Gabriel do Nascimento Santos Silva",
+      "José Matheus Oliveira Cavalcante",
+      "Stephanie Kamarry Alves De Sousa"
+    ],
+    "instituicoes": [
+      "IFS",
+      "UFS"
+    ],
+    "resumo": "Este trabalho aborda a acessibilidade à formação em Inteligência Artificial (IA) no Brasil, com foco em Sergipe. Identificamos que pessoas de baixa renda enfrentam barreiras para ingressar nesse campo, como falta de recursos financeiros, conhecimento prévio em tecnologia e inglês. Concluímos que iniciativas gratuitas, como o programa do Instituto Federal de Sergipe, têm democratizado o acesso à formação em IA, permitindo que indivíduos de baixa renda desenvolvam habilidades e entrem no mercado de trabalho nesse campo em crescimento. A democratização do acesso à formação em IA é fundamental para reduzir desigualdades e criar um futuro mais justo e equitativo, onde todos possam contribuir e prosperar na era da inteligência artificial.",
+    "palavras_chave": [],
+    "paginas": 8,
+    "edicao": "ENCompIF 2023",
+    "link": "https://sol.sbc.org.br/index.php/encompif/article/view/25243/25064",
+    "categoria_principal": "Educação e Conhecimento",
+    "subcategoria": "Formação e Capacitação"
+  },
+  {
+    "titulo": "Análise da aplicação de metodologias ativas em disciplina de Lógica de Programação",
+    "autores": [
+      "Havana Diogo Alves"
+    ],
+    "instituicoes": [
+      "IFPE"
+    ],
+    "resumo": "Este artigo traz a análise da adoção de metodologias ativas como estratégia de ensino-aprendizagem em disciplina de Lógica de Programação, visando melhorar indicadores de reprovação e evasão desta matéria. Apresentamos o cenário anterior e o posterior a aplicação das metodologias Aprendizado Baseado em Problemas, Aprendizado Baseado em Times e Sala de Aula Invertida. Como resultado, após seis semestres de utilização destas metodologias ativas, o resultado foi satisfatório, diminuindo o índice de reprovações por falta e por nota.",
+    "palavras_chave": [],
+    "paginas": 8,
+    "edicao": "ENCompIF 2023",
+    "link": "https://sol.sbc.org.br/index.php/encompif/article/view/25246/25067",
+    "categoria_principal": "Educação e Conhecimento",
+    "subcategoria": "Aprendizagem e Mudança de Comportamento"
+  },
+  {
+    "titulo": "Compreendendo a Lei da Inércia e os Fenômenos de Refração e Reflexão com Uso de Robótica Educacional",
+    "autores": [
+      "Egina Lima Martins",
+      "Jarbas Nunes Vidal-Filho"
+    ],
+    "instituicoes": [
+      "IFCE"
+    ],
+    "resumo": "Os alunos do ensino médio relatam dificuldades para compreender diversos conceitos físicos. Este artigo investigou o uso do pensamento computacional e robótica educacional com objetivo de auxiliar os alunos no processo de ensino-aprendizagem, despertar e melhorar o raciocínio lógico na resolução de problemas, e tornar mais ativa a interação do aluno na sala de aula. Utilizando placa de Arduino, sensores e programação em blocos foram desenvolvidos protótipos práticos que explicam a 1ª Lei de Newton e os conceitos de refração e reflexão, possibilitando a compreensão na prática dos fenômenos físicos. Os resultados deste estudo são dispenser para álcool e robô móvel, que são utilizados para detalhar os conceitos estudados.",
+    "palavras_chave": [
+      "Robótica Educacional",
+      "Resolução de problemas",
+      "Pensamento Computacional"
+    ],
+    "paginas": 4,
+    "edicao": "ENCompIF 2023",
+    "link": "https://sol.sbc.org.br/index.php/encompif/article/view/25246/25067",
+    "categoria_principal": "Educação e Conhecimento",
+    "subcategoria": "Aprendizagem e Mudança de Comportamento"
+  },
+  {
+    "titulo": "Uma Investigação Sobre os Fatores de Ingresso e Evasão de Alunos dos Cursos Técnicos da Área de Informática",
+    "autores": [
+      "Maelly K. V. de Sousa",
+      "Danyllo W. Albuquerque",
+      "Raquel B. Leal",
+      "Mirna C. O. Maia"
+    ],
+    "instituicoes": [
+      "IFPB"
+    ],
+    "resumo": "A evasão é um fenômeno que ocorre quando um aluno abandona um curso antes de sua conclusão, representando uma perda social, de recursos e de tempo. Identificar e analisar os fatores que conduzem à evasão nos cursos técnicos é de extrema importância. Este trabalho visa investigar os fatores que influenciam a evasão de alunos dos cursos técnicos de informática do IFPB-CG. Para isso, um questionário foi elaborado com o objetivo de conhecer o perfil dos alunos e as razões que os levam a evadir. Obteve-se 37 respostas com base nos mais de 150 alunos evadidos entre os anos de 2011 e 2021. Os resultados confirmam que a evasão está relacionada a uma grande variedade de fatores associados ao aluno, ao curso bem como a Instituição de Ensino.",
+    "palavras_chave": [
+      "Evasão",
+      "Alunos",
+      "Cursos Técnicos",
+      "Estudo Experimental",
+      "Questionário"
+    ],
+    "paginas": 4,
+    "edicao": "ENCompIF 2023",
+    "link": "https://sol.sbc.org.br/index.php/encompif/article/view/25243/25064",
+    "categoria_principal": "Educação e Conhecimento",
+    "subcategoria": "Formação e Capacitação"
+  },
+  {
+    "titulo": "O Impacto da Pandemia e Desafios Enfrentados Pelos Discentes",
+    "autores": [
+      "Gabrielly de S. Lima",
+      "Danyllo W. Albuquerque",
+      "Raquel B. Leal",
+      "Ana C. A. Oliveira"
+    ],
+    "instituicoes": [
+      "IFPB"
+    ],
+    "resumo": "A pandemia ocasionada em virtude da COVID-19 proporcionou mudanças abruptas nas mais diversas esferas sociais, incluindo a educação. O objetivo deste trabalho é analisar impactos da pandemia sob a ótica dos discentes em diferentes aspectos. Para isso, conduzimos um survey com alunos de diversos cursos do IFPB-CG por meio de um formulário eletrônico. Mediante análise de 303 respostas válidas, conclui-se que os discentes foram impactados pela pandemia em termos de processo de ensino-aprendizagem e aspectos relacionados à saúde física e mental. Identificar e refletir criticamente sobre essas questões é fundamental para contribuir nas estratégias adotadas durante a pandemia, bem como pós-pandemia.",
+    "palavras_chave": [
+      "Survey",
+      "Impactos da Pandemia",
+      "Alunos",
+      "Desempenho Acadêmico",
+      "Saúde Mental"
+    ],
+    "paginas": 4,
+    "edicao": "ENCompIF 2022",
+    "link": "https://sol.sbc.org.br/index.php/encompif/article/view/20428/20256",
+    "categoria_principal": "Saúde e Bem-estar",
+    "subcategoria": "Impactos Sociais na Saúde"
+  },
+  {
+    "titulo": "Aplicação de Técnicas de Aprendizagem de Máquina para Diagnóstico de Depressão, Ansiedade e Estresse",
+    "autores": [
+      "Ana Laura Barros de Melo",
+      "André Luiz Firmino Alves"
+    ],
+    "instituicoes": [
+      "IFPB"
+    ],
+    "resumo": "O estilo de vida moderno das pessoas está causando diferentes tipos de transtornos psicológicos, onde há resistência na busca de tratamento e as pessoas integram em uma árdua jornada de sofrimento com os sintomas de depressão, estresse e ansiedade. Nesse contexto, considerando que a aprendizagem de máquina (AM) tem sido amplamente eficaz no auxílio de diagnóstico médico, o presente trabalho tem como objetivo testar a eficácia dos modelos de aprendizagem de máquina utilizando a mineração de dados, como ferramentas auxiliares no pré-diagnóstico dessas doenças, fazendo uso da linguagem Python. Foi feita a classificação e previsão da ocorrência dos três problemas psicológicos utilizando quatro algoritmos, medindo cinco diferentes níveis de gravidade entre as doenças, unindo a tecnologia e a psicologia.",
+    "palavras_chave": [
+      "Aprendizagem de Máquina",
+      "Mineração de Dados",
+      "Classificação",
+      "Transtornos Psicológicos",
+      "Diagnóstico"
+    ],
+    "paginas": 4,
+    "edicao": "ENCompIF 2022",
+    "link": "https://sol.sbc.org.br/index.php/encompif/article/view/20429/20257",
+    "categoria_principal": "Saúde e Bem-estar",
+    "subcategoria": "Impactos Sociais na Saúde"
+  },
+  {
+    "titulo": "Um Estudo sobre a Dependência de Smartphones em Alunos do Ensino Médio Integrado do IFC Campus Fraiburgo",
+    "autores": [
+      "Alex Muniz",
+      "Matheus Kauê Fernandes Suzin",
+      "Rafael Seisl Solanha",
+      "Lucas Fernandes",
+      "Rodrigo Espinosa Cabral",
+      "Marlon Cordeiro Domenech"
+    ],
+    "instituicoes": [
+      "IFC"
+    ],
+    "resumo": "Os avanços tecnológicos têm beneficiado a humanidade, porém a utilização inadequada dos smartphones tem gerado efeitos negativos. Este trabalho buscou contribuir para a reflexão sobre o uso dos smartphones por meio de um experimento social e de um documentário. O experimento consistiu em estudantes adolescentes não utilizarem o smartphone durante 24h. Os resultados evidenciaram a relação entre o uso do smartphone e malefícios à saúde. O experimento foi avaliado pelos participantes e, junto com uma pesquisa exploratória, embasou a criação de um documentário. Espera-se que este trabalho contribua para o entendimento e reflexão sobre a utilização do smartphone.",
+    "palavras_chave": [
+      "Dependência Tecnológica",
+      "Smartphone",
+      "Ensino Médio Integrado"
+    ],
+    "paginas": 4,
+    "edicao": "ENCompIF 2022",
+    "link": "https://sol.sbc.org.br/index.php/encompif/article/view/20430/20258",
+    "categoria_principal": "Saúde e Bem-estar",
+    "subcategoria": "Hábitos e Qualidade de Vida"
+  },
+  {
+    "titulo": "IoT para o Gerenciamento Remoto da Irrigação: Análise da Confiabilidade do Sistema",
+    "autores": [
+      "André Luis Albuquerque Pinheiro",
+      "Alan Emanuel Santos Figueiredo",
+      "Francisco Cleber da Conceição Feitosa",
+      "Francisco Rondynelle Rodrigues Sousa",
+      "Francisco Gauberto Barros dos Santos",
+      "Guilherme Álvaro Rodrigues Maia Esmeraldo",
+      "Robson Gonçalves Fechine Feitosa"
+    ],
+    "instituicoes": [
+      "IFCE",
+      "UFPI"
+    ],
+    "resumo": "O presente trabalho descreve um sistema de gerenciamento remoto da irrigação localizada, com ênfase na confiabilidade do sistema, que recebe como entrada, dados de sensores, e informações de acionamento oriundas do usuário; e, como saída, são gerados gráficos, além da automação do acionamento da irrigação. A análise da confiabilidade do sistema mostrou que: um dos sensores de umidade do solo apresentou problemas de corrosão após 10 dias de uso; foi necessário utilizar um multiplexador de portas analógicas, devido o número limitado de portas do ESP8266; e, a placa de circuito impresso apresentou melhores resultados com relação a problemas de falhas de conexão entre componentes, resistência e durabilidade.",
+    "palavras_chave": [
+      "Internet das Coisas",
+      "Confiabilidade",
+      "Irrigação",
+      "Automação"
+    ],
+    "paginas": 8,
+    "edicao": "ENCompIF 2022",
+    "link": "https://sol.sbc.org.br/index.php/encompif/article/view/20431/20259",
+    "categoria_principal": "Tecnologia e Inovação",
+    "subcategoria": "Tecnologias para Sustentabilidade"
+  },
+  {
+    "titulo": "Elaboração e Aplicação do Curso de Inglês para Mestrado e Doutorado no Facebook: relato de experiência",
+    "autores": [
+      "C. E. Yoshida",
+      "L. C. G. Oliveira",
+      "P. O. Oliveira",
+      "R. K. Andrades",
+      "M. Nicolao"
+    ],
+    "instituicoes": [
+      "IFRS"
+    ],
+    "resumo": "Este artigo é um relato de experiência referente à construção e desenvolvimento de um curso de curta duração utilizando a rede social Facebook como ambiente virtual de aprendizagem, para avaliação final da disciplina de Ambientes Computacionais para a Educação, cujo título é Inglês Instrumental para Mestrado e Doutorado. Foi escolhido este tema pela sua relevante importância e grande procura, visto que esses estudantes precisam realizar uma prova de proficiência em leitura em Língua Estrangeira e muitos optam pela Língua Inglesa.",
+    "palavras_chave": [
+      "AVA",
+      "Facebook",
+      "Informática na Educação",
+      "Inglês para Proficiência"
+    ],
+    "paginas": 8,
+    "edicao": "ENCompIF 2022",
+    "link": "https://sol.sbc.org.br/index.php/encompif/article/view/20432/20260",
+    "categoria_principal": "Educação e Conhecimento",
+    "subcategoria": "Difusão de Tecnologias"
+  },
+  {
+    "titulo": "Desenvolvimento de Tecnologia Assistiva para Uso de Ônibus por Pessoas Cegas: da Prototipação à Capacitação",
+    "autores": [
+      "Hilson G. V. de Andrade",
+      "David de M. Borges",
+      "Leandro H. C. Bernardes",
+      "João Lucas A. de Albuquerque",
+      "Luis Marcel G. A. de Almeida"
+    ],
+    "instituicoes": [
+      "IFPE"
+    ],
+    "resumo": "Este trabalho apresenta um sistema de detecção de ônibus baseado na tecnologia Bluetooth low energy (BLE) que visa facilitar a circulação de pessoas cegas em grandes centros urbanos. O sistema proposto é composto por dois subsistemas: um hardware embarcado em barramentos e um software instalado no dispositivo móvel do usuário. A partir do dispositivo no ônibus, beacons BLE contendo a rota do ônibus e informações de aceleração são enviados e lidos pelo aplicativo em execução no dispositivo móvel. Por meio dessas informações e utilizando o algoritmo de aprendizado de máquina, o aplicativo é capaz de identificar a aproximação e chegada do ônibus, orientando o usuário. Um protótipo de sistema completo foi construído e testado para validar o sistema proposto, onde foi obtido um índice de acerto de 91,5%, indicando a viabilidade da proposta, cuja tecnologia também foi divulgada a partir da oferta de cursos de Extensão pelo IFPE.",
+    "palavras_chave": [
+      "tecnologias assistivas",
+      "BLE",
+      "aprendizagem de máquina"
+    ],
+    "paginas": 8,
+    "edicao": "ENCompIF 2022",
+    "link": "https://sol.sbc.org.br/index.php/encompif/article/view/20433/20261",
+    "categoria_principal": "Sociedade e Comunidades",
+    "subcategoria": "Impactos Sociais de Tecnologias"
+  },
+  {
+    "titulo": "MEVACINEI: Aplicativo para o Controle de Vacinas",
+    "autores": [
+      "Daniel Barreiros de Farias",
+      "Fernando Silvano Gonçalves",
+      "Roberval Silva Bett"
+    ],
+    "instituicoes": [
+      "IFSC"
+    ],
+    "resumo": "A tecnologia tem estado presente no cotidiano das pessoas, se considerarmos a área da saúde é verificado que ela é aplicada tanto para suporte de processos, quanto na sua automatização. Neste sentido, considerando o controle de imunização, é verificado que apesar do cadastro pelo profissional de saúde no sistema do governo das doses aplicadas, salvo a vacina da COVID-19, os usuários não têm acesso a essas informações, ficando reféns da carteira de vacinação. Assim, esse presente projeto descreve uma aplicação móvel para digitalização da carteira de vacinação, auxiliando os usuários no controle dos imunizantes. Os resultados obtidos demonstram a aderência dos usuários quanto ao seu uso e algumas sugestões de melhoria.",
+    "palavras_chave": [
+      "Desenvolvimento Mobile",
+      "Carteira de Vacinação",
+      "Controle de Doenças"
+    ],
+    "paginas": 8,
+    "edicao": "ENCompIF 2022",
+    "link": "https://sol.sbc.org.br/index.php/encompif/article/view/20434/20262",
+    "categoria_principal": "Saúde e Bem-estar",
+    "subcategoria": "Impactos Sociais na Saúde"
+  },
+  {
+    "titulo": "Um Estudo sobre a Percepção do Ensino Remoto Emergencial em Institutos Federais baseado em Mineração de Opinião",
+    "autores": [
+      "Mateus F. L. Souza",
+      "Cristiane N. Targa",
+      "Carlos A. Silva"
+    ],
+    "instituicoes": [
+      "IFMG"
+    ],
+    "resumo": "O ensino remoto emergencial (ERE) foi uma estratégia didática e pedagógica adotada por instituições educacionais do mundo inteiro para diminuir os impactos provocados pela Covid-19. Neste período o uso das redes sociais se intensificaram. Este trabalho apresenta um estudo sobre a percepção e os sentimentos da comunidade acadêmica de Institutos Federais no período compreendendo o ERE de 2020 à 2021, utilizando técnicas de mineração de opinião. Construímos uma base de dados coletada a partir do Twitter e aplicamos o método Multinomial Naive Bayes para categorizar os sentimentos. Os resultados mostram uma certa estabilização dos sentimentos da comunidade a partir de fevereiro de 2021.",
+    "palavras_chave": [
+      "Análise de Sentimentos",
+      "Instituto Federais",
+      "Pandemia",
+      "Ensino Remoto"
+    ],
+    "paginas": 8,
+    "edicao": "ENCompIF 2022",
+    "link": "https://sol.sbc.org.br/index.php/encompif/article/view/20435/20263",
+    "categoria_principal": "Educação e Conhecimento",
+    "subcategoria": "Aprendizagem e Mudança de Comportamento"
+  },
+  {
+    "titulo": "Classificação do Tráfego de Rede por Meio do Fluxo de Rede Utilizando Algoritmos de Aprendizado de Máquina para Detecção de Anomalia",
+    "autores": [
+      "Welton T. M. Sousa",
+      "Carlos A. Silva"
+    ],
+    "instituicoes": [
+      "IFMG"
+    ],
+    "resumo": "A classificação do tráfego de rede por meio do fluxo de rede possui grande relevância no contexto dos ataques cibernéticos. Diversos segmentos da sociedade são afetados por esses ataques, os quais podem representar perdas financeiras significativas. Além disso, os métodos convencionais como antivírus e firewall nem sempre conseguem identificar anomalias na rede. Motivado por estas circunstâncias, este artigo propõe o estudo e aplicação de sete algoritmos de aprendizado de máquina com a utilização de seleção de atributos na classificação do tráfego de rede por meio do fluxo de rede, primando a automatização na identificação de fluxo anômalo, contribuindo para a obtenção de métrica no auxílio à tomada de decisão por administradores de redes.",
+    "palavras_chave": [
+      "Aprendizado de Máquina",
+      "Detecção de Intrusão",
+      "UNSW-NB15",
+      "Cibersegurança",
+      "Análise do Tráfego de Rede"
+    ],
+    "paginas": 8,
+    "edicao": "ENCompIF 2022",
+    "link": "https://sol.sbc.org.br/index.php/encompif/article/view/20436/20264",
+    "categoria_principal": "Tecnologia e Inovação",
+    "subcategoria": "Desenvolvimento e Avaliação de Sistemas"
+  },
+  {
+    "titulo": "Estudo de métricas de ranking na rede de citação de artigos científicos Cora",
+    "autores": [
+      "Samuel O. S. Bianch",
+      "Juliana S. Silva",
+      "João G. R. Silva"
+    ],
+    "instituicoes": [
+      "IFMT"
+    ],
+    "resumo": "A publicação de artigos científicos é uma ação essencial no meio acadêmico. Contudo, definir qual artigo ou publicação científica tem a maior relevância entre os autores é um desafio para os pesquisadores. Assim, o objetivo deste estudo é analisar a aplicação de algumas métricas de ranking em uma base de dados de citações, denominada Cora, na perspectiva de verificar, qual a métrica apresenta rankings mais próximos aos rankings gerados por outras métricas. A métrica que mais se correlaciona às demais tende a ser uma métrica que, de um modo amplo, se aproxima da classificação de outras considerações matemáticas utilizadas por outras métricas, o que a torna uma boa indicação quando necessário a classificação de postos para bases de dados de artigos científicos e suas citações. Para as comparações entre as métricas foram utilizados coeficientes de correlação. Resultados quantitativos indicaram que as métricas Betweenness e Grau são as que mais se correlacionam às demais, o que as tornam boas indicações para o problema.",
+    "palavras_chave": [
+      "Redes complexas",
+      "Rede de citação",
+      "Cora",
+      "Coeficiente de correlação"
+    ],
+    "paginas": 8,
+    "edicao": "ENCompIF 2022",
+    "link": "https://sol.sbc.org.br/index.php/encompif/article/view/20437/20265",
+    "categoria_principal": "Educação e Conhecimento",
+    "subcategoria": "Difusão de Tecnologias"
+  },
+  {
+    "titulo": "Implementação de um sistema para auxílio na coleta dos resíduos sólidos urbanos",
+    "autores": [
+      "Igor de A. Lima",
+      "Lucas H. F. Pavão",
+      "Lilian B. B. Gomes",
+      "Mateus H. S. Ferraz",
+      "Aldo T. M. Sales",
+      "Anderson L. S. Moreira",
+      "Marco A. O. Domingues"
+    ],
+    "instituicoes": [
+      "IFPE",
+      "UFPE"
+    ],
+    "resumo": "O crescimento significativo do número de sistemas embarcados– principalmente inseridos em um ambiente contextualizado pelo paradigma tecnológico da Internet das Coisas (IoT) – tem sido responsável por uma geração massiva de dados detentores de uma capacidade intrínseca de produção de valor. A atualização crescente destes sistemas tem sido utilizada nas mais diversas áreas do conhecimento, entre elas a de gestão ambiental. O presente artigo mostra a implementação um sistema de coleta de resíduos urbano, denominado SiCOL (Sistema de Coleta de Lixo Inteligente), que foi desenvolvido e aprimorado no IFPE/Campus Recife em parceria with a UFPE, nos conceitos da IoT, para melhoria do sistema de coleta sanitária do lixo urbano nos campi citados.",
+    "palavras_chave": [
+      "internet das coisas",
+      "bem estar social",
+      "RSU"
+    ],
+    "paginas": 8,
+    "edicao": "ENCompIF 2022",
+    "link": "https://sol.sbc.org.br/index.php/encompif/article/view/20438/20266",
+    "categoria_principal": "Sustentabilidade e Meio Ambiente",
+    "subcategoria": "Gestão de Recursos e Redução de Desperdício"
+  },
+  {
+    "titulo": "Panorama do Ensino e Aprendizagem de Programação de Computadores no Instituto Federal do Paraná",
+    "autores": [
+      "João Henrique Berssanette",
+      "Antonio Carlos de Francisco"
+    ],
+    "instituicoes": [
+      "IFPR",
+      "UTFPR"
+    ],
+    "resumo": "Este artigo apresenta os resultados de uma pesquisa que se objetivou a desenvolver um panorama do ensino e aprendizagem de programação de computadores no Instituto Federal do Paraná IFPR. Para tanto, procedeu-se uma pesquisa documental tomando como base o ano de 2018. Os dados de investigação do estudo foram obtidos a partir de dados públicos e sistemas institucionais. Entre os resultados do estudo, encontram-se: a identificação de onde ocorre o ensino e aprendizagem de programação de computadores no IFPR; o perfil dos docentes que lecionam as disciplinas introdutórias de programação na instituição; e os índices de desempenho de aprendizagem dos estudantes nessas disciplinas.",
+    "palavras_chave": [
+      "Ensino",
+      "Aprendizagem",
+      "Programação de Computadores",
+      "IFPR"
+    ],
+    "paginas": 8,
+    "edicao": "ENCompIF 2022",
+    "link": "https://sol.sbc.org.br/index.php/encompif/article/view/20439/20267",
+    "categoria_principal": "Educação e Conhecimento",
+    "subcategoria": "Aprendizagem e Mudança de Comportamento"
+  },
+  {
+    "titulo": "Inclusão digital: Um estudo preliminar sobre conceitos, dimensões, e implicações na sociedade",
+    "autores": [
+      "Airton Zancanaro",
+      "Carla Grossl",
+      "Déborah Kosak Klagenberg",
+      "Kemely Kedny Pezzini",
+      "Letícia Hümmelgen",
+      "Nágila Cristina Hinckel",
+      "Thainá Schroeder Ribeiro"
+    ],
+    "instituicoes": [
+      "IFC"
+    ],
+    "resumo": "As tecnologias digitais estão cada vez mais presentes na sociedade, no entanto, nem sempre elas são pensadas de forma a incluir, promovendo assim a exclusão. Este artigo tem a problemática: Quais as dimensões da inclusão digital na sociedade atual e quais os impactos da sua inserção na vida dos sujeitos? Como objetivo busca-se compreender as dimensões da inclusão digital e seus impactos na sociedade, por meio de uma pesquisa de natureza básica, abordagem descritiva e procedimentos de análise bibliográficos. Espera-se materializar as dimensões humana, social, física e tecnológica da inclusão digital, que amparadas pela didática e comunicação, servirão de base para construção de um método de inclusão digital.",
+    "palavras_chave": [
+      "Inclusão Digital",
+      "dimensões",
+      "tecnologia"
+    ],
+    "paginas": 4,
+    "edicao": "ENCompIF 2021",
+    "link": "https://sol.sbc.org.br/index.php/encompif/article/view/15941/15782",
+    "categoria_principal": "Sociedade e Comunidades",
+    "subcategoria": "Impactos Sociais de Tecnologias"
+  },
+  {
+    "titulo": "Pensamento Computacional e Programação Scratch: uma revisão de literatura do SBIE",
+    "autores": [
+      "Luisa S. Ferreira",
+      "Sylvana Karla S. L. Santos",
+      "Cristiane Jorge L. Bonfim"
+    ],
+    "instituicoes": [
+      "IFB"
+    ],
+    "resumo": "O objetivo deste artigo é apresentar um levantamento dos trabalhos que relacionam pensamento computacional e a plataforma Scratch no contexto do ensino de programação para estudantes da educação básica. Para tanto, foi realizada uma revisão de literatura com o foco em estudos relacionados às experiências práticas no contexto da educação básica, principalmente no ensino fundamental. A busca considerou os trabalhos publicados no SBIE no período de 2001 a 2019.",
+    "palavras_chave": [
+      "pensamento computacional",
+      "Scratch",
+      "ensino fundamental",
+      "revisão de literatura"
+    ],
+    "paginas": 4,
+    "edicao": "ENCompIF 2021",
+    "link": "https://sol.sbc.org.br/index.php/encompif/article/view/15942/15783",
+    "categoria_principal": "Educação e Conhecimento",
+    "subcategoria": "Aprendizagem e Mudança de Comportamento"
+  },
+  {
+    "titulo": "O pensamento computacional e algumas questões da OBMEP como Metodologias inovadoras para as aulas de Matemática",
+    "autores": [
+      "Natália Bernardo Nunes",
+      "Aline Silva De Bona"
+    ],
+    "instituicoes": [
+      "IFRS"
+    ],
+    "resumo": "O presente artigo relata uma pesquisa de atividades investigativas com o uso do pensamento computacional, através de recursos da computação plugada e desplugada, atrelado a questões da Olimpíada Brasileira de Matemática das Escolas Públicas (OBMEP) para auxiliar docentes, diante de uma defasagem no sistema educacional brasileiro, principalmente nas aulas de matemática. Com uma metodologia de pesquisa-ação, após a busca por recursos norteadores, foi realizada a elaboração de atividades paralela à testagem com professores do nível de ensino. Foram elaboradas 19 atividades cumprindo os requisitos, apresentadas para 32 professores. Destes, 30 demonstraram interesse em já aplicá-las a seus educandos de forma remota.",
+    "palavras_chave": [
+      "Educação",
+      "Letramento Digital",
+      "Tecnologia"
+    ],
+    "paginas": 4,
+    "edicao": "ENCompIF 2021",
+    "link": "https://sol.sbc.org.br/index.php/encompif/article/view/15943/15784",
+    "categoria_principal": "Educação e Conhecimento",
+    "subcategoria": "Aprendizagem e Mudança de Comportamento"
+  },
+  {
+    "titulo": "Proposta de um Mecanismo Inteligente baseado em Machine Learning e no melhor Parâmetro K no KNN para Detectar ataques Botnet em Internet das Coisas",
+    "autores": [
+      "Antônio Deivid Santos Costa",
+      "Antonia Raiane Santos Araujo Cruz"
+    ],
+    "instituicoes": [
+      "IFCE"
+    ],
+    "resumo": "Os algoritmos de aprendizagem visam otimizar o desempenho na execução de uma determinada tarefa através de reconhecimento de padrões. Desta forma, a utilização de técnicas como k-Nearest-Neighbour (KNN) traz grandes vantagens, além de ser uma abordagem mais simples e que pode ser utilizada em aplicações voltadas para Segurança da Informação e detecção de anomalias. O objetivo deste trabalho é propor um mecanismo que aplique uma abordagem de Machine Learning (ML) baseada no melhor valor do parâmetro k do KNN para detecção de botnet em Internet das Coisas.",
+    "palavras_chave": [
+      "Machine Learning",
+      "Internet das Coisas",
+      "Botnet",
+      "KNN"
+    ],
+    "paginas": 4,
+    "edicao": "ENCompIF 2021",
+    "link": "https://sol.sbc.org.br/index.php/encompif/article/view/15944/15785",
+    "categoria_principal": "Tecnologia e Inovação",
+    "subcategoria": "Desenvolvimento e Avaliação de Sistemas"
+  },
+  {
+    "titulo": "Modelo Matemático apoiado por um Algoritmo Genético para classificação de Fake News na Web",
+    "autores": [
+      "Ana Luisa D. Almeida",
+      "Gabriel C. Carrara",
+      "Isabele B. Prates",
+      "Letícia C. T. Nascimento",
+      "Pedro H. O. Souza",
+      "Thiago R. Almeida",
+      "Renato C. Cani",
+      "João Gabriel R. Silva"
+    ],
+    "instituicoes": [
+      "IFMT"
+    ],
+    "resumo": "Notícias falsas (fake news) são notícias com elementos inverídicos em sua estrutura e que podem interferir em eventos importantes, desde eleições a ações de combate a pandemias. Assim, algoritmos para classificação e detecção dessas notícias interessam à comunidade científica. Neste trabalho, desenvolvemos um modelo matemático baseado em modificações de um modelo anterior para detecção de fake news que considera componentes estruturais de notícias para sua classificação como verdadeira ou falsa. Além disso, implementamos um algoritmo genético para ponderação dos fatores de relevância. Resultados indicam uma melhor eficácia em comparação ao modelo utilizado como base.",
+    "palavras_chave": [
+      "Modelagem Matemática",
+      "Notícias Falsas",
+      "Otimização"
+    ],
+    "paginas": 4,
+    "edicao": "ENCompIF 2021",
+    "link": "https://sol.sbc.org.br/index.php/encompif/article/view/15945/15786",
+    "categoria_principal": "Sociedade e Comunidades",
+    "subcategoria": "Impactos Sociais de Tecnologias"
+  },
+  {
+    "titulo": "Extração de características em imagens para reconhecimento de padrões",
+    "autores": [
+      "Robson Brito Santos",
+      "César Alberto da Silva",
+      "Linnyer Beatrys Ruiz Aylon"
+    ],
+    "instituicoes": [
+      "IFSP",
+      "UFMG",
+      "UEM"
+    ],
+    "resumo": "Este artigo apresenta uma investigação dos algoritmos de segmentação e extração de características de imagens de modo a permitir o reconhecimento objetos. Um conjunto de imagens foram obtidas de um ranário e utilizadas no experimento. O experimento consistiu em utilizar um algoritmo para segmentação e extração de características e realizar um estudo comparativo dos resultados de três algoritmos de classificação. O algoritmo Random Forest obteve maior índice de instâncias classificadas corretamente.",
+    "palavras_chave": [
+      "Superpixel",
+      "Visão Computacional",
+      "Segmentação"
+    ],
+    "paginas": 4,
+    "edicao": "ENCompIF 2021",
+    "link": "https://sol.sbc.org.br/index.php/encompif/article/view/15946/15787",
+    "categoria_principal": "Tecnologia e Inovação",
+    "subcategoria": "Desenvolvimento e Avaliação de Sistemas"
+  },
+  {
+    "titulo": "Aplicação do Algoritmo Genético Para Elaboração de Roteiros Turísticos na Serra da Ibiapaba, Ceará",
+    "autores": [
+      "João Victor da Costa",
+      "Anderson Passos de Aragão",
+      "Nécio de Lima Veras"
+    ],
+    "instituicoes": [
+      "IFCE"
+    ],
+    "resumo": "A Serra da Ibiapaba, no Ceará, desponta como uma região com grande potencial turístico no estado. Devido a isso, o presente trabalho realizou a aplicação do Algoritmo Genético (AG) para elaborar uma rota ótima, baseada na menor distância, entre um conjunto de locais turísticos da região. O problema foi modelado através de grafos e as distâncias obtidas através do Google Maps. Os resultados apontaram que o AG reduziu em até 66,58% a distância do roteiro inicial proposto, realizando tal função em um tempo inferior a 1,8s. Este trabalho foi utilizado como base para uma aplicação planejadora de roteiros turísticos otimizados e personalizados.",
+    "palavras_chave": [
+      "Algoritmo Genético",
+      "Otimização",
+      "Problema do Caixeiro Viajante",
+      "Roteiros Turísticos"
+    ],
+    "paginas": 8,
+    "edicao": "ENCompIF 2021",
+    "link": "https://sol.sbc.org.br/index.php/encompif/article/view/15947/15788",
+    "categoria_principal": "Economia e Consumo",
+    "subcategoria": "Eficiência no Uso de Recursos"
+  },
+  {
+    "titulo": "Comparação de APIs de OCR para Reconhecimento de Dígitos em Imagens de Mostrador de Sete Segmentos",
+    "autores": [
+      "Jonathan R. da Silva",
+      "Leandro C. Resendo",
+      "Jefferson O. Andrade",
+      "Karin S. Komati"
+    ],
+    "instituicoes": [
+      "IFES"
+    ],
+    "resumo": "As plataformas de computação em nuvem tornam acessível a tecnologia de reconhecimento de texto. Entretanto, a escolha da plataforma mais adequada para uma determinada aplicação nem sempre é evidente. Este trabalho avaliou cinco soluções diferentes para reconhecimento de texto: AWS Rekognition, Microsoft Azure, Cloudmersive, Google OCR e OCRSpace. Foi utilizada uma base de dados de imagens de mostradores de sete segmentos em medidores de energia elétrica, a “YUVA EB Dataset”. Não houve pré-processamento para a melhoria da qualidade da imagem, para melhoria de iluminação ou para eliminação de ruídos. O Google Cloud apresentou melhores resultados acertando 100 resultados das 169 imagens de entrada, com acurácia de 86,5% considerando os 965 dígitos. Os resultados obtidos sugerem que as soluções oferecidas comercialmente não são adequadas para uso em produção sem uma etapa anterior de pré-processamento das imagens.",
+    "palavras_chave": [
+      "Reconhecimento de digitos",
+      "Computação em nuvem",
+      "Mostrador de sete segmentos"
+    ],
+    "paginas": 8,
+    "edicao": "ENCompIF 2021",
+    "link": "https://sol.sbc.org.br/index.php/encompif/article/view/15948/15789",
+    "categoria_principal": "Tecnologia e Inovação",
+    "subcategoria": "Desenvolvimento e Avaliação de Sistemas"
+  },
+  {
+    "titulo": "Avaliação Comportamental por Meio de Triagem com a Lógica Fuzzy Para o Auxílio na Predição de Tracos Esquizofrênicos em Adultos Segundo Critérios A e B do DSM-5",
+    "autores": [
+      "Maria Dayane Almeida Araújo",
+      "Rhyan Ximenes de Brito"
+    ],
+    "instituicoes": [
+      "IFCE"
+    ],
+    "resumo": "A Inteligencia Artificial (IA) como ferramenta de apoio a disgnósticos especializados mostra-se bastante promissora. Dentro dessa perspectiva sabe-se que a esquizofrenia é um distúrbio psiquiátrico de difícil diagnostico. Nesse sentido este trabalho apresenta um sistema fuzzy cujo objetivo é auxiliar profissionais na avaliação comportamental de pacientes por meio da triagem de características que enseje no fechamento de diagnósticos. A metodologia foi realizada com base em simulações onde os sintomas como delírios, alucinações, discurso desorganizado entre outros foram utilizados como variáveis de entrada. Com base nos resultados pode-se concluir que a IA tem muito a contribuir na busca por soluções na área medica em especial no auxílio de diagnósticos.",
+    "palavras_chave": [
+      "Fuzzy",
+      "Diagnóstico",
+      "Saúde",
+      "Esquizofrênicos"
+    ],
+    "paginas": 8,
+    "edicao": "ENCompIF 2021",
+    "link": "https://sol.sbc.org.br/index.php/encompif/article/view/15949/15790",
+    "categoria_principal": "Saúde e Bem-estar",
+    "subcategoria": "Impactos Sociais na Saúde"
+  },
+  {
+    "titulo": "Elaboração de um serviço de Recomendação Híbrido Ponderado e Misto implantado em Webservice RESTful",
+    "autores": [
+      "Herik S. Lorenção",
+      "Rafael V. M. Santos"
+    ],
+    "instituicoes": [
+      "IFES"
+    ],
+    "resumo": "Os sistemas de recomendação possuem o objetivo de sugerir aos seus usuário itens, produtos ou informações de acordo com seus interesses, fazendo com que sua utilização seja cada vez mais difundida, tanto no mercado como em processos de tomada de decisão. Com base no contexto descrito, esse trabalho busca disponibilizar um serviço de recomendação híbrido implantado sobre a estrutura de um WebService RESTful, focado na estruturação dos resultados obtidos em algoritmos de recomendação baseados em filtragem colaborativa, conteúdo e híbrida (utilizando as abordagens ponderada e mista). Foi elaborado um estudo de caso baseado em avaliações de musicas dos mais variados gêneros. O algoritmo de filtragem híbrida ponderada obteve os melhores resultados com 81,4% de acerto nas recomendações, bem como, media das recomendações estatisticamente iguais as medias de avaliações, com base no teste de T.",
+    "palavras_chave": [
+      "sistema de recomendação",
+      "recomendação híbrida",
+      "web service"
+    ],
+    "paginas": 8,
+    "edicao": "ENCompIF 2021",
+    "link": "https://sol.sbc.org.br/index.php/encompif/article/view/15950/15791",
+    "categoria_principal": "Tecnologia e Inovação",
+    "subcategoria": "Aplicações Digitais para Gestão e Consumo"
+  },
+  {
+    "titulo": "Análise de Modelos Epidemiológicos para a COVID-19: Um Estudo de Casos de Belo Horizonte-MG durante a Pandemia de 2020",
+    "autores": [
+      "Gabriel A. D. Miranda",
+      "Gustavo Y. S. Azevedo",
+      "Matheus S. Garofolo",
+      "Lillia S. B. Silva",
+      "Carlos A. Silva"
+    ],
+    "instituicoes": [
+      "IFMG",
+      "Secretaria Municipal de Educação - Pref. Municipal de Sabará"
+    ],
+    "resumo": "Neste trabalho foram utilizados os modelos epidemiológicos SEIR e SIQR para avaliar a evolução da COVID-19 no município de Belo Horizonte em Minas Gerais, Brasil, entre os meses de abril a dezembro de 2020. Os modelos epidemiológicos foram resolvidos usando o método numérico de Runge-Kutta de 4ª ordem, sendo implementados em linguagem Octave. A simulação dos dados pelos modelos propostos se aproximou da evolução real da COVID-19 na região abordada, tornando estes modelos boas ferramentas para aprimorar a compreensão da dinâmica de transmissão da doença.",
+    "palavras_chave": [
+      "Modelos Epidemiológicos",
+      "estudo de caso",
+      "covid-19"
+    ],
+    "paginas": 8,
+    "edicao": "ENCompIF 2021",
+    "link": "https://sol.sbc.org.br/index.php/encompif/article/view/15951/15792",
+    "categoria_principal": "Saúde e Bem-estar",
+    "subcategoria": "Impactos Sociais na Saúde"
+  },
+  {
+    "titulo": "Uma Abordagem Multiclasse para a Caracterização de Flores Utilizando Redes Neurais Convolucionais",
+    "autores": [
+      "Diego Nunes Noceli",
+      "Alessandra Martins Coelho",
+      "Matheus de Freitas Oliveira Baffa"
+    ],
+    "instituicoes": [
+      "IF Sudeste MG"
+    ],
+    "resumo": "No Brasil existem cerca de 30 mil especies de plantas com flores, sendo descobertas entre 250 e 300 novas especies anualmente podendo conter diferentes formas, cores e perfumes. Devido as características semelhantes encontradas nas plantas, a sua tipificação não é uma tarefa trivial. Este trabalho tem como objetivo, desenvolver um método preliminar de classificação de flores, baseado em Redes Neurais Convolucionais para identificar padrões e diferenciar automaticamente os tipos de flores. Para o desenvolvimento, foi utilizada uma base de dados de 4.135 imagens contendo cinco grupos de flores, sendo elas o dente de leão, a margarida, a rosa, a tulipa e o girassol. Essas imagens foram utilizadas no treinamento e avaliação de dois tipos de Redes Neurais Convolucionais, a LeNet-5 e a ResNet152. Embora mais simples, a LeNet-5 obteve um resultado superior, atingindo 99.69% de acurácia categórica.",
+    "palavras_chave": [
+      "Aprendizado Profundo",
+      "Classificação de Flores",
+      "Visão Computacional"
+    ],
+    "paginas": 8,
+    "edicao": "ENCompIF 2021",
+    "link": "https://sol.sbc.org.br/index.php/encompif/article/view/15952/15793",
+    "categoria_principal": "Tecnologia e Inovação",
+    "subcategoria": "Desenvolvimento e Avaliação de Sistemas"
+  },
+  {
+    "titulo": "Detecção Automática de Anomalias Oculares Utilizando Redes Neurais Convolucionais",
+    "autores": [
+      "Luiza Rosa de Moura",
+      "Alessandra Martins Coelho",
+      "Matheus de Freitas Oliveira Baffa"
+    ],
+    "instituicoes": [
+      "IF Sudeste MG"
+    ],
+    "resumo": "Analisando a importância do cuidado com a visão, o trabalho proposto tem como objetivo desenvolver um método de auxílio ao diagnostico de diferentes anomalias que acometem a região externa do olho. A Rede Neural Convolucional foi então utilizada para detectar padrões visuais das imagens da base de dados Warsaw BioBase Disease Iris v2.1, que posteriormente foram classificadas entre doentes e saudáveis. O classificador construído foi avaliado seguindo o protocolo de experimentação Holdout, obtendo uma taxa de acerto de 94%. Mediante tal resultado, é possível concluir que o modelo desenvolvido tem potencial para se tornar uma ferramenta para o auxílio ao diagnostico.",
+    "palavras_chave": [
+      "Aprendizado Profundo",
+      "Doenças Oculares",
+      "Visão Computacional"
+    ],
+    "paginas": 7,
+    "edicao": "ENCompIF 2021",
+    "link": "https://sol.sbc.org.br/index.php/encompif/article/view/15953/15794",
+    "categoria_principal": "Saúde e Bem-estar",
+    "subcategoria": "Impactos Sociais na Saúde"
+  },
+  {
+    "titulo": "Dagda - Software de Auxílio ao Ensino de Música na Educação Básica",
+    "autores": [
+      "Dorgival da Silva Pereira Netto",
+      "Francesco Pagani Galvão",
+      "Luiz Felipe de Souza Jimenez",
+      "Renan Augusto Monteiro Duarte"
+    ],
+    "instituicoes": [
+      "IFMS"
+    ],
+    "resumo": "A Lei nº 11.769/2008 dispõe sobre a obrigatoriedade do ensino da música na educação básica. Mesmo após 12 anos da sanção da referida lei, muitas escolas não puderam efetivar sua implementação, pela falta de estrutura que apresentam ou pela superficialidade com que o ensino de música é tratado no Brasil. Dessa forma, este artigo apresenta o desenvolvimento de um software, que possa ser utilizado como auxiliar no processo de ensino-aprendizagem da música em escolas brasileiras de educação básica. O software é capaz de reconhecer e reproduzir elementos pertinentes à teoria musical a partir de partituras em formato PDF, tais como uma nota, pausa, compasso, duração das notas e andamento da música.",
+    "palavras_chave": [
+      "Lei 11.769/2008",
+      "Audiveris",
+      "JavaScript",
+      "Teoria Musical",
+      "JSON"
+    ],
+    "paginas": 8,
+    "edicao": "ENCompIF 2021",
+    "link": "https://sol.sbc.org.br/index.php/encompif/article/view/15954/15795",
+    "categoria_principal": "Educação e Conhecimento",
+    "subcategoria": "Difusão de Tecnologias"
+  },
+  {
+    "titulo": "Desenvolvimento de kit didático de controle de nível para um sistema tanque simples",
+    "autores": [
+      "Amanda Lisboa Pereira",
+      "Luis F. Pozas",
+      "Roddy Romero"
+    ],
+    "instituicoes": [
+      "IFSC"
+    ],
+    "resumo": "O presente trabalho descreve um kit didático de controle de nível de baixo custo, para auxílio ao estudo de sistemas de controle. O kit desenvolvido, o qual é composto por elementos de hardware em conjunto com a plataforma de prototipagem Arduino© e associado ao software Simulink©, permitiu efetuar ensaios de identificação de sistemas de primeira ordem, obtendo-se um modelo matemático através de dados experimentais, e ensaios de controle em malha fechada. Através da analise dos resultados, percebeu-se que o modelo identificado apresentou resultados ótimos em regime permanente, porém pouco representativos em regime transitório. Como trabalhos futuros, foram sugeridos alguns ajustes no modelo para que o kit didático possa ser utilizado nas aulas.",
+    "palavras_chave": [
+      "Controle de Nível",
+      "Kit didático",
+      "Identificação de Sistemas"
+    ],
+    "paginas": 8,
+    "edicao": "ENCompIF 2021",
+    "link": "https://sol.sbc.org.br/index.php/encompif/article/view/15955/15796",
+    "categoria_principal": "Educação e Conhecimento",
+    "subcategoria": "Formação e Capacitação"
+  },
+  {
+    "titulo": "Jogo digital para auxiliar os alunos do 1º ao 3º ano do Ensino Fundamental na atividade do ditado",
+    "autores": [
+      "Marlon Carvalho Mariano",
+      "Lilian Stavizki",
+      "Márcia Häfele Islabão Franco",
+      "Fernanda Nunes Deitos",
+      "André Peres",
+      "Fábio Yoshimitsu Okuyama",
+      "Silvia de Castro Bertagnolli",
+      "Marcelo Augusto Rauh Schimitt"
+    ],
+    "instituicoes": [
+      "IFRS",
+      "Escola Municipal de Educação Infantil Humaitá"
+    ],
+    "resumo": "Este artigo apresenta o desenvolvimento do jogo digital intitulado Ditado Lúdico, que tem por intuito auxiliar os alunos do 1º ao 3º ano do Ensino Fundamental (EF) no processo de aquisição da escrita, através da atividade do ditado. No desenvolvimento do jogo foram empregadas as tecnologias Unity e Firebase. Ditado Lúdico está disponível para as plataformas Windows para desktop e Android para mobile. O jogo foi avaliado por três professores que lecionam no Ciclo I do EF, onde os resultados obtidos apontam que este promove o desenvolvimento da autonomia e da motivação, além de manter o aluno engajado durante a realização da atividade do ditado.",
+    "palavras_chave": [
+      "Ditado",
+      "Jogo Digital",
+      "Aquisição da escrita"
+    ],
+    "paginas": 8,
+    "edicao": "ENCompIF 2021",
+    "link": "https://sol.sbc.org.br/index.php/encompif/article/view/15956/15797",
+    "categoria_principal": "Educação e Conhecimento",
+    "subcategoria": "Aprendizagem e Mudança de Comportamento"
+  },
+  {
+    "titulo": "Movimento Maker com Robótica de Baixo Custo: Um Estudo sobre o Ensino de Ciências no IFRS",
+    "autores": [
+      "Vanessa Faria de Souza"
+    ],
+    "instituicoes": [
+      "IFRS"
+    ],
+    "resumo": "O Movimento Maker está relacionado com a proposta de aprendizado baseado na autonomia \"faça você mesmo\" e criatividade e a robótica educacional de baixo custo surgiu como uma alterativa acessível que viabiliza ações do Movimento Maker. Esta se utiliza de sucatas de equipamentos de informática antigos, assim como a plataforma de prototipagem eletrônica de hardware livre e de placa única, como é o caso do Arduíno. Neste contexto, este manuscrito busca detalhar o projeto de pesquisa desenvolvido no IFRS, que teve como intuito empregar os fundamentos do Movimento Maker e suas possibilidades educacionais, em oficinas de robótica educacional de baixo custo, promovendo a construção de soluções inovadoras ante a situações problemáticas que irão ser instigadas a partir de temas geradores como: sustentabilidade, recursos ambientais, preservação, dentre outros. Pretendeu-se, dessa forma, gerar protótipos e produtos que possam ser aplicados como soluções para problemáticas reais.",
+    "palavras_chave": [
+      "Movimento Maker",
+      "Robótica de Baixo Custo",
+      "Ensino de Ciências"
+    ],
+    "paginas": 8,
+    "edicao": "ENCompIF 2021",
+    "link": "https://sol.sbc.org.br/index.php/encompif/article/view/15957/15798",
+    "categoria_principal": "Educação e Conhecimento",
+    "subcategoria": "Formação e Capacitação"
+  },
+  {
+    "titulo": "Analítica da Aprendizagem em bases tecnológicas na formação técnica integrada em Informática",
+    "autores": [
+      "Sylvana Karla S. L. Santos",
+      "Kadidja Valéria R. Oliveira"
+    ],
+    "instituicoes": [
+      "IFB"
+    ],
+    "resumo": "O cenário de mudanças nas instituições de ensino presenciais, ocasionado pelos impactos da pandemia da COVID-19, impulsionou o uso das tecnologias digitais de informação e comunicação para a retomada das aulas. As metodologias ativas foram implementadas de forma estratégica para o ensino remoto. Este estudo apresenta um relato de experiência no uso da Analítica da Aprendizagem para coletar, processar e dar visibilidade aos resultados alcançados na realização de um Projeto Integrado de disciplinas de computação. Conclui que foi possível desenvolver as bases tecnológicas, fomentar a capacidade de trabalhar de forma colaborativa, identificar competências individuais e potencializar o protagonismo dos discentes.",
+    "palavras_chave": [
+      "Analítica de Aprendizagem",
+      "ensino técnico",
+      "projeto integrado",
+      "informática"
+    ],
+    "paginas": 8,
+    "edicao": "ENCompIF 2021",
+    "link": "https://sol.sbc.org.br/index.php/encompif/article/view/15958/15799",
+    "categoria_principal": "Educação e Conhecimento",
+    "subcategoria": "Formação e Capacitação"
+  },
+  {
+    "titulo": "Utilizando Question Answering no Auxílio ao Processo de Ensino e Aprendizagem de Programação: Um Estudo de Caso com BERT e ChatGPT",
+    "autores": [
+      "Marcelo de L. Freire",
+      "Robson G. Fechine Feitosa",
+      "Yuri D. Santos",
+      "Hanna Menezes",
+      "Guilherme Á. R. M. Esmeraldo",
+      "Harley M. de Mello",
+      "Esdras L. Bispo Jr.",
+      "Gustavo A. L. de Campos"
+    ],
+    "instituicoes": [
+      "IFCE",
+      "UECE",
+      "University of Groningen",
+      "UFCG",
+      "UFJ",
+      "UECE"
+    ],
+    "resumo": "Natural Language Processing is an area of Artificial Intelligence that has brought benefits to the most diverse processes of human activity. In this context, this work uses a Question Answering (QA) approach to help in the process of teaching and learning programming. For this purpose, it analyzed two case studies with different QA models and a database with 87 questions and answers related to teaching programming. Thus, the models achieved 62% and 85% accuracy in the first and second scenarios, respectively. The present work also discusses (i) some limitations of the approach, (ii) some qualitative pedagogical results, and, finally, indicates (iii) recommendations for future work.",
+    "palavras_chave": [],
+    "paginas": null,
+    "edicao": "ENCompIF 2023",
+    "link": "https://sol.sbc.org.br/index.php/encompif/article/view/25245/25066",
+    "categoria_principal": "Educação e Conhecimento",
+    "subcategoria": "Difusão de Tecnologias"
+  }
+]
