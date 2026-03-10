@@ -22,7 +22,7 @@ function buildHierarchy(artigos) {
     });
 
     return {
-        nome: 'ENCOMPIF',
+        nome: 'ENCompIF',
         categorias: Object.values(categorias).map(cat => ({
             ...cat,
             subcategorias: Object.values(cat.subcategorias)
